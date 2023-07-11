@@ -1,0 +1,13 @@
+.banner_img {
+  height: 100%;
+  width: 100%;
+
+  border-radius: 10px;
+  align-items: center;
+  display: block;
+}
+.banner_img_div {
+  width: 85%;
+  height: 22rem;
+  margin: 5rem auto;
+}

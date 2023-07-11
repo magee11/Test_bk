@@ -1,0 +1,74 @@
+.Profile {
+  margin: 0 auto;
+}
+.ProfileWrapper {
+  width: 85%;
+  margin: 4rem auto;
+}
+.account {
+  display: flex;
+}
+.account-left {
+  width: 30%;
+  padding: 4rem 0 4rem 4rem;
+}
+.account-right {
+  width: 70%;
+  padding: 4rem 4rem 4em 1rem;
+}
+
+.side_option {
+  display: flex;
+  height: 3rem;
+  border-radius: 10px;
+  padding: 0.5rem 1rem;
+  background-color: white;
+}
+.side_option:hover {
+  background-color: #ee7700;
+  color: aliceblue;
+}
+.side_option_img {
+  display: flex;
+  align-items: center;
+}
+.side_option_img_pic {
+  color: #ee7700;
+}
+.side_option_text {
+  margin-top: 0.5rem;
+  margin-left: 1rem;
+}
+.side_option_text_heading {
+  font-size: larger;
+  /* font-weight: 600; */
+}
+ul {
+  padding-left: 0;
+}
+ul li {
+  list-style-type: none;
+}
+.right_content::-webkit-scrollbar {
+  display: none;
+}
+
+.right_content {
+  overflow-y: auto;
+  height: 48rem;
+}
+
+.Logout {
+  width: 100%;
+  display: flex;
+  float: left;
+}
+.LogoutBtn {
+  cursor: pointer;
+  border: none;
+  padding: 0.5rem 1.5rem;
+  margin-top: 1rem;
+  color: white;
+  /* font-weight: 600; */
+  background: rgb(255, 67, 67);
+}

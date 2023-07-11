@@ -1,0 +1,47 @@
+.store_locations {
+  margin: 0 auto;
+  width: 90%;
+  margin-top: 1rem;
+}
+.location_container {
+  border-radius: 10px;
+  padding: 20px 3rem;
+  height: 10rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.city_location {
+  font-size: x-large;
+}
+.store_address {
+  color: gray;
+}
+.current_status {
+  color: rgb(139, 194, 56);
+  font-weight: bolder;
+}
+.store_distance {
+  font-size: medium;
+}
+.line {
+  display: flex;
+  width: 90%;
+  margin: 0 auto;
+  height: 2px;
+  background-color: rgb(235, 235, 235);
+}
+.themes {
+  color: #ee7700;
+  font-size: large;
+  /* font-weight: 600; */
+  height: 4rem;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+span {
+  cursor: pointer;
+}

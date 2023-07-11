@@ -1,0 +1,21 @@
+.scroll_wrapper {
+  height: 15rem;
+  width: 100%;
+  display: flex;
+  overflow-x: scroll;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  overflow-y: hidden;
+  scroll-behavior: smooth;
+  background-color: #ffeeda;
+}
+
+* {
+  -ms-overflow-style: none;
+}
+::-webkit-scrollbar {
+  display: none;
+}

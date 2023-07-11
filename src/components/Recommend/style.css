@@ -1,0 +1,13 @@
+.recommend_wrapper {
+  padding-top: 2rem;
+  width: 85%;
+  margin: 0 auto;
+  height: 20rem;
+  margin-bottom: 10rem;
+}
+.recommed_items {
+  margin-top: 1rem;
+  display: flex;
+  flex-direction: row;
+  gap: 3rem;
+}

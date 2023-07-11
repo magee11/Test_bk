@@ -1,0 +1,25 @@
+.menuItems {
+    /* max-width: 100%; */
+    margin-bottom: 2rem;
+    width: 10rem;
+    flex-grow: 0;
+    flex-shrink: 0;
+    height: 10rem;
+    margin: auto 1rem;
+  }
+  .card_img {
+    height: 7rem;
+    width: 8.5rem;
+    margin: 0 auto;
+    background-color: aliceblue;
+    border-radius: 6px;
+  }
+  .card_text {
+    height: 3rem;
+    width: 8.5rem;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: large;
+  }

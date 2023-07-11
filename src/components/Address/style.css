@@ -1,0 +1,28 @@
+.Address {
+  overflow-y: auto;
+  display: flex;
+  padding: 1rem 3rem;
+  margin-top: 1rem;
+  height: auto;
+  border-radius: 10px;
+  background-color: #ffffff;
+}
+.location_img {
+  display: flex;
+}
+
+.address_location {
+  font-size: larger;
+  /* font-weight: 600; */
+  margin: 1rem;
+}
+.address_info {
+  margin: 1rem;
+  font-size: large;
+  color: gray;
+  /* font-weight: 00; */
+}
+.address_text {
+  margin: 0;
+  flex-direction: column;
+}

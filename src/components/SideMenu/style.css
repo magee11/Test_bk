@@ -1,0 +1,32 @@
+.side_option {
+  display: flex;
+  height: 4rem;
+  border-radius: 10px;
+  padding: 0.5rem 1rem;
+  background-color: white;
+}
+.side_option:hover {
+  background-color: #ee7700;
+  color: aliceblue;
+}
+.side_option_img {
+  display: flex;
+  align-items: center;
+}
+.side_option_img_pic {
+  color: #ee7700;
+}
+.side_option_text {
+  margin-top: 1rem;
+  margin-left: 1rem;
+}
+.side_option_text_heading {
+  font-size: larger;
+  /* font-weight: 600; */
+}
+ul {
+  padding-left: 0;
+}
+ul li {
+  list-style-type: none;
+}

@@ -1,0 +1,15 @@
+.BK_Special_Items {
+  padding-top: 2rem;
+  display: flex;
+  gap: 2rem;
+}
+.heading {
+  padding-top: 2rem;
+  color: aliceblue;
+}
+.bk_special_wrapper {
+  padding-top: 2rem;
+  width: 85%;
+  margin: 0 auto;
+  height: 20rem;
+}

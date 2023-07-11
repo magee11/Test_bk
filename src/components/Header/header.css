@@ -1,0 +1,195 @@
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 29px;
+}
+
+.switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ee7700;
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 22px;
+  width: 22px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
+}
+
+input:checked + .slider {
+  background-color: #6f3c2f;
+}
+
+input:focus + .slider {
+  box-shadow: 0 0 1px #6f3c2f;
+}
+
+input:checked + .slider:before {
+  -webkit-transform: translateX(26px);
+  -ms-transform: translateX(26px);
+  transform: translateX(26px);
+}
+
+/* Rounded sliders */
+.slider.round {
+  border-radius: 34px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
+body {
+  background-color: rgb(246, 240, 234);
+}
+.header {
+  position: sticky;
+  top: 0;
+  background-color: white;
+  width: 100%;
+}
+.headerWrapper {
+  height: 68px;
+  margin: 0 auto;
+  width: 90%;
+  display: flex;
+  align-items: center;
+  margin-top: 0;
+  justify-content: space-between;
+}
+
+.logo {
+  height: 79px;
+  width: 79px;
+  border-radius: 40%;
+}
+.SearchBar {
+  background: #fbfaf8;
+  padding-left: 1rem;
+  border: none;
+  border-radius: 25px;
+  height: 45px;
+  width: 400px;
+}
+.SearchBar:focus {
+  margin-left: 5rem;
+  padding-left: 1rem;
+  border: none;
+  background-color: #fbfaf8;
+  border-radius: 25px;
+  height: 40px;
+  width: 300px;
+}
+
+.sideContent {
+  display: flex;
+  gap: 1rem;
+  list-style-type: none;
+}
+
+.heading {
+  color: gray;
+  font-size: large;
+}
+
+a {
+  font-size: large;
+  /* font-weight: 600; */
+  color: gray;
+  text-decoration: none;
+}
+
+.search {
+  color: #ee7700;
+  /* font-weight: 600; */
+  height: 23px;
+  font-size: 20px;
+  display: flex;
+}
+
+.searchText {
+  align-items: center;
+  display: flex;
+  padding-top: 0.7rem;
+  justify-content: center;
+  font-weight: 400;
+  font-size: 16px;
+  /* font-weight: 600; */
+  color: gray;
+}
+
+.UserControls {
+  gap: 1rem;
+  align-items: center;
+  display: flex;
+}
+
+.title {
+  color: gray;
+  font-size: large;
+  /* font-weight: 1000; */
+}
+
+.NavMenu {
+  display: flex;
+  align-items: center;
+  gap: 5rem;
+}
+
+.NavItems {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+
+.NavIcons {
+  padding: 0px 5px;
+}
+
+.cartItems {
+  justify-content: center;
+  text-align: center;
+  bottom: 15px;
+  left: 20px;
+  position: absolute;
+  border-radius: 50%;
+  height: 25px;
+  width: 25px;
+  background-color: #ee7700;
+  color: aliceblue;
+  display: flex;
+}
+.cartIconsLables {
+  cursor: pointer;
+  position: relative;
+  display: flex;
+}
+
+.NavIcons {
+  height: 1.5rem;
+}
+.link {
+  gap: 2rem;
+}
+.LoginClick {
+  display: flex;
+  align-items: center;
+}

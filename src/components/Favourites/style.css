@@ -1,0 +1,22 @@
+.favourites_wrapper{
+    padding-top: 2rem;
+    width: 85%;
+    margin: 0 auto;
+    height: 20rem;
+}
+
+
+
+.heading{
+    font-size: xx-large;
+    /* font-weight: 600; */
+    color: black;
+    
+}
+
+.favourite_items{
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: row;
+    gap: 3rem;
+}

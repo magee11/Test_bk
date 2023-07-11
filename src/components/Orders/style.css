@@ -1,0 +1,37 @@
+.Content_items {
+  padding: 2rem 3rem 0 3rem;
+  margin-top: 1rem;
+  height: 9rem;
+  border-radius: 10px;
+  background-color: #ffffff;
+}
+.content_top {
+  display: flex;
+  justify-content: space-between;
+}
+.order_text {
+  font-size: larger;
+  /* font-weight: 600; */
+}
+.order_status {
+  padding: 0 0.5rem 0 0.5rem;
+  border-radius: 100px;
+  border: 1px solid #ee7700;
+  font-size: small;
+  /* font-weight: 600; */
+  color: #ee7700;
+  display: flex;
+  align-items: center;
+}
+.content_bottom {
+  margin-top: 2rem;
+}
+.order_product {
+    font-size: large;
+  font-weight: 550;
+}
+.Order_date_time {
+    color: grey;
+    font-weight: 500;
+    font-size: medium;
+}
