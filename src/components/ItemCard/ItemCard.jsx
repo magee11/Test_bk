@@ -21,22 +21,14 @@ function ItemCard(porps) {
           <div className="footer_wrapper">
             <div className="itemcard_footer">
               <span className="itemPrice">₹{porps.price}/-</span>
-              <button
-                className="addToCart"
-                onClick={() => {
-                  dispatch(decrement());
-                }}
-              >
-                --
-              </button>
-              <button
+              <div
                 className="addToCart"
                 onClick={() => {
                   dispatch(addpopup());
                 }}
               >
-                ADD+
-              </button>
+                <span className="addToCartText">Add +</span>
+              </div>
             </div>
           </div>
         </div>

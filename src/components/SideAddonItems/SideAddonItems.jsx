@@ -16,7 +16,7 @@ const SideAddonItems = () => {
           />
         </div>
         <div className="ItemText-1">
-          <span>King Fries</span>
+          <p className="">King Fries</p>
           <img
             src="https://www.burgerking.in/static/media/veg.2d5a7ccc.svg"
             alt=""

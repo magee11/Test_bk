@@ -1,5 +1,5 @@
 import React from "react";
-
+import './style.css'
 const Popup_Top = () => {
   return (
     <div>
@@ -12,7 +12,7 @@ const Popup_Top = () => {
           />
         </div>
         <div className="topText">
-          <p>CHOCOLATE MOUSSE CUP</p>
+          <h2>CHOCOLATE MOUSSE CUP</h2>
           <span>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime
             mollitia, molestiae quas vel sint

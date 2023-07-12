@@ -7,14 +7,11 @@
     flex-direction: column;
   }
   .ItemText-1 {
-    padding-top: 15px;
     width: 80%;
     font-size: 19px;
-    font-weight: 1000;
     margin: 0 auto;
     justify-content: space-between;
     display: flex;
-    margin-bottom: 20px;
   }
   .ItemsText-2 {
     /* font-weight: 600; */

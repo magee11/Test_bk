@@ -1,6 +1,6 @@
 import React from "react";
 import SideAddonItems from "../SideAddonItems/SideAddonItems";
-
+import './style.css'
 const SideAddonItemsList = () => {
   return (
     <div>

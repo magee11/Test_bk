@@ -38,16 +38,19 @@
 }
 
 .addToCart {
-  font: 600;
   cursor: pointer;
-  padding: 4px 20px;
+
+  padding: 0.5rem 2rem;
   border-radius: 50px;
   font-size: 15px;
   border: 1px solid #ee7700;
   color: #ee7700;
-  background-color: #f2f2f2;
 }
 
+.addToCartText{
+  display: flex;
+  font-size: large;
+}
 .itemcard_image_div {
   height: 100%;
   width: 10rem;

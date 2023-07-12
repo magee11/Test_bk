@@ -6,6 +6,8 @@ import Profile from "./Pages/Profile/Profile";
 import Cart from "./Pages/Cart/Cart";
 import Home from "./Pages/Home/Home";
 import Login from "./components/Login/Login";
+import React from "react";
+import ReactDOM from "react-dom/client";
 
 function App() {
   return (

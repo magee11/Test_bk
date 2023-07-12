@@ -6,7 +6,7 @@ function OurMenu() {
   return (
     <div className="ourmenu">
       <div className="ourmenu_wrapper">
-        <span className="heading">OUR MENU</span>
+        <span className="heading1">OUR MENU</span>
         <Scroll_items_list />
       </div>
     </div>

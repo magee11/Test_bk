@@ -1,11 +1,12 @@
 .ourmenu_wrapper {
   width: 85%;
-  margin: 0 auto;
+  margin: 1rem auto;
   height: 20rem;
-  padding-top: 2rem;
+  padding-top: 2rem 0;
 
 }
 
-.heading {
+.heading1 {
   font-size: xx-large;
+  padding: 1rem ;
 }
