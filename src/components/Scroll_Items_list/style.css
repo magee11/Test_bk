@@ -10,7 +10,6 @@
   overflow-x: auto;
   overflow-y: hidden;
   scroll-behavior: smooth;
-  background-color: #ffeeda;
 }
 
 * {
@@ -18,4 +17,19 @@
 }
 ::-webkit-scrollbar {
   display: none;
+}
+@media only screen and (max-width: 768px) {
+  .scroll_wrapper {
+    height: 11rem;
+    width: 100%;
+    display: flex;
+    overflow-x: scroll;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    overflow-y: hidden;
+    scroll-behavior: smooth;
+  }
 }

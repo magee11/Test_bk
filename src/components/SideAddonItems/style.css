@@ -1,41 +1,42 @@
 .sideItem {
-    border-radius: 10px;
-    height: 12rem;
-    width: 11rem;
-    background-color: aliceblue;
-    display: flex;
-    flex-direction: column;
-  }
-  .ItemText-1 {
-    width: 80%;
-    font-size: 19px;
-    margin: 0 auto;
-    justify-content: space-between;
-    display: flex;
-  }
-  .ItemsText-2 {
-    /* font-weight: 600; */
-    font-size: 19px;
-    width: 80%;
-    margin: 0 auto;
-    justify-content: space-between;
-    display: flex;
-  }
-  
-  .ItemAddtoCart {
-    cursor: pointer;
-    font-size: 20px;
-    display: block;
-    width: 20px;
-    height: 20px;
-    border-radius: 50%;
-    border: 2px solid #ee7700;
-    color: #ee7700;
-    background-color: #ffe7d0;
-    line-height: 16px;
-    text-align: center;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-  }
-  
+  font-family: system-ui;
+  font-weight: 500;
+  border-radius: 10px;
+  height: 12rem;
+  width: 11rem;
+  background-color: aliceblue;
+  display: flex;
+  flex-direction: column;
+}
+.ItemText-1 {
+  width: 80%;
+  font-size: 19px;
+  margin: 0 auto;
+  justify-content: space-between;
+  display: flex;
+}
+.ItemsText-2 {
+  /* font-weight: 600; */
+  font-size: 19px;
+  width: 80%;
+  margin: 0 auto;
+  justify-content: space-between;
+  display: flex;
+}
+
+.ItemAddtoCart {
+  cursor: pointer;
+  font-size: 20px;
+  display: block;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  border: 2px solid #ee7700;
+  color: #ee7700;
+  background-color: #ffe7d0;
+  line-height: 16px;
+  text-align: center;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}

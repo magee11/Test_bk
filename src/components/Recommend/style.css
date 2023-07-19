@@ -6,8 +6,46 @@
   margin-bottom: 10rem;
 }
 .recommed_items {
-  margin-top: 1rem;
+  height: 15rem;
+  width: 100%;
+  display: flex;
+  overflow-x: scroll;
+  align-items: center;
   display: flex;
   flex-direction: row;
-  gap: 3rem;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  overflow-y: hidden;
+  scroll-behavior: smooth;
+}
+
+@media only screen and (max-width: 768px) {
+  .recommend_wrapper {
+    height: 11rem;
+    width: 90%;
+    margin: 0 0 4rem 1rem;
+  }
+  .recommed_items {
+    height: 9rem;
+    width: 105%;
+    display: flex;
+    overflow-x: scroll;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    overflow-y: hidden;
+    scroll-behavior: smooth;
+  }
+  .exploreBtn {
+    height: 1rem;
+    width: 80%;
+    background-color: #ee7700;
+    padding: 0.7rem;
+    display: flex;
+    justify-content: center;
+    border-radius: 100px;
+    color: white;
+    margin: 0 auto;
+  }
 }

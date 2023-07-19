@@ -1,7 +1,15 @@
 .BK_Special_Items {
-  padding-top: 2rem;
+  height: 15rem;
+  width: 100%;
   display: flex;
-  gap: 2rem;
+  overflow-x: scroll;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  overflow-y: hidden;
+  scroll-behavior: smooth;
 }
 .heading {
   padding-top: 2rem;
@@ -12,4 +20,28 @@
   width: 85%;
   margin: 0 auto;
   height: 20rem;
+}
+
+@media only screen and (max-width: 768px) {
+  .BK_Special_Items {
+    height: 11rem;
+    width: 105%;
+    display: flex;
+    overflow-x: scroll;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    overflow-y: hidden;
+    scroll-behavior: smooth;
+  }
+
+  .bk_special_wrapper {
+    padding-top: 2rem;
+    width: 90%;
+    margin: 0 auto;
+    height: 11rem;
+  }
+
 }

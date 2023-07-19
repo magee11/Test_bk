@@ -1,4 +1,6 @@
 .AddOnItem {
+  font-family: system-ui;
+  font-weight: 500;
   align-items: center;
   margin: 5px 0px;
   background-color: rgb(234, 220, 201);

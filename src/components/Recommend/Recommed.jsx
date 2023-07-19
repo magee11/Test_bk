@@ -5,9 +5,7 @@ import "./style.css";
 function Recommed() {
   return (
     <div className="recommend_wrapper">
-      <div className="">
-        <p className="heading">Recommed</p>
-      </div>
+      <p className="heading">Recommed</p>
       <div className="recommed_items">
         <ItemCard
           title="Crunchy Chicken Velcono"

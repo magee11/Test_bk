@@ -1,7 +1,6 @@
 .banner_img {
   height: 100%;
   width: 100%;
-
   border-radius: 10px;
   align-items: center;
   display: block;
@@ -10,4 +9,26 @@
   width: 85%;
   height: 22rem;
   margin: 5rem auto;
+}
+@media only screen and (max-width: 768px) {
+  .banner_img_div {
+    width: 90%;
+    height: 10rem;
+    margin: 3rem auto;
+  }
+  .heading{
+    padding: 0;
+  }
+  .disclaimer{
+    font-family: 'Courier New', Courier, monospace;
+  }
+  .disclaimer_text{
+    display: flex;
+    align-items: center;
+  }
+  .exploreBtn{
+    height: 1rem;
+    width: 90%;
+    background-color: #ee7700;
+  }
 }

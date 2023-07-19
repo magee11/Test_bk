@@ -4,8 +4,9 @@ import { Carousel } from "react-responsive-carousel";
 // requires a loader
 const CarouselBanner = () => {
   return (
-    <div>
+    <div className="CarouselPlacer">
       <Carousel
+        className="CarouselPlacer"
         autoPlay="true"
         infiniteLoop="true"
         showThumbs={false}

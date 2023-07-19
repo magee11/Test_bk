@@ -13,10 +13,10 @@ import OurMenu from "../../components/OurMenu/OurMenu";
 import KingDeal from "../../components/KingDealOfTheDay/KingDeal";
 const Home = () => {
   const data = useSelector((state) => state.additem.AddPopup);
-
+  const { innerWidth } = window;
   return (
     <div>
-      {/* <CarouselBanner /> */}
+      {innerWidth < 1023 && <CarouselBanner />}
       <OurMenu />
       <KingDeal />
 

@@ -1,11 +1,11 @@
 import React from "react";
 import PopUpAddOn from "../AddOnItemsCheck/PopUpAddOn";
-
+import "./style.css";
 const PopupAddonList = () => {
   return (
     <div>
       <div classname="MakeItAMeal">
-        <span>Make It as Meals</span>
+        <span className="MakeitAMeals">Make It as Meals</span>
         <PopUpAddOn />
         <PopUpAddOn />
         <PopUpAddOn />

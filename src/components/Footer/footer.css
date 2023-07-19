@@ -26,7 +26,7 @@
 }
 
 ul a li {
-  padding: 0.3rem 0 0 0 ;
+  padding: 0.3rem 0 0 0;
   list-style: none;
   font-size: 14px;
   color: rgb(192, 192, 192);
@@ -62,4 +62,44 @@ ul {
 .FinalFooterLine {
   width: 85;
   color: #323231;
+}
+
+@media only screen and (max-width: 768px) {
+  .Mobile_Footer_Wrapper {
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 -3px 8px 0 rgba(0, 0, 0, 0.08);
+    position: sticky;
+    height: 3.5rem;
+    display: flex;
+    justify-content: space-around;
+  }
+  .home {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0.5rem 0;
+    color: #ee7700;
+  }
+  .king_deals {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0.5rem 0;
+    color: gray;
+  }
+  .nearly_by_store {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0.5rem 0;
+    color: gray;
+  }
+  .mobileIcons {
+    padding: 0.2rem 0;
+    height: 1rem;
+    width: 1rem;
+  }
+  .MobileBottomText {
+    font-size: small;
+  }
 }

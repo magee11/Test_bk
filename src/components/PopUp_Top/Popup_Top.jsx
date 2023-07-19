@@ -13,7 +13,7 @@ const Popup_Top = () => {
         </div>
         <div className="topText">
           <h2>CHOCOLATE MOUSSE CUP</h2>
-          <span>
+          <span className="topTextDesc">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime
             mollitia, molestiae quas vel sint
           </span>

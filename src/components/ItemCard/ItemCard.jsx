@@ -15,19 +15,19 @@ function ItemCard(porps) {
         </div>
         <div className="itemcard_text">
           <span className="itemcard_titile">{porps.title}</span>
-          <span className="itemcard_description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
-          </span>
+          <span className="itemcard_description">Lorem ipsum dolor sit</span>
           <div className="footer_wrapper">
             <div className="itemcard_footer">
-              <span className="itemPrice">₹{porps.price}/-</span>
+              <div>
+                <span className="itemPrice">₹{porps.price}/-</span>
+              </div>
               <div
                 className="addToCart"
                 onClick={() => {
                   dispatch(addpopup());
                 }}
               >
-                <span className="addToCartText">Add +</span>
+                <span className="addToCartText">Add+</span>
               </div>
             </div>
           </div>

@@ -10,13 +10,16 @@
     height: 5px !important;
   }
   
-  @media only screen and (max-width: 600px) {
-    .slide {
-      min-width: 50% !important;
-    }
-  }
   
   /* For all other screen sizes, display 3 items */
   .slide {
     min-width: 50% !important;
+  }
+
+  @media only screen and (max-width:734px) {
+  .CarouselPlacer{
+    width: 100%;
+    height: 5rem;
+  }
+  
   }
