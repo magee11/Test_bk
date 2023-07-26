@@ -1,11 +1,14 @@
 import React from "react";
-
 import "./footer.css";
-
+import { useNavigate } from "react-router-dom";
 function Footer() {
   const { innerWidth } = window;
+  const navigate = useNavigate();
+  const navigateToNearlyby = () => {
+    navigate("/find-restaruent");
+  };
   return (
-    <div>
+    <div className="Mobile_footer">
       {innerWidth > 1023 ? (
         <div className="footer">
           <div>
@@ -166,7 +169,9 @@ function Footer() {
               src="https://www.burgerkingdev.in/static/media/dine-in-black.c32e1cdd.svg"
               alt=""
             />
-            <span className="MobileBottomText">Nearby store</span>
+            <span className="MobileBottomText" onClick={navigateToNearlyby}>
+              Nearby store
+            </span>
           </div>
         </div>
       )}

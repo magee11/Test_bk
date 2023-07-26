@@ -5,26 +5,6 @@ const StoreLocationList = () => {
   return (
     <div>
       <Store_Location />
-      <Store_Location />
-      <Store_Location />
-      <Store_Location />
-      <Store_Location />
-      <Store_Location />
-      <Store_Location />
-      <Store_Location />
-      <Store_Location />
-      <Store_Location />
-      <Store_Location />
-      <Store_Location />
-      <Store_Location />
-      <Store_Location />
-      <Store_Location />
-      <Store_Location />
-      <Store_Location />
-      <Store_Location />
-      <Store_Location />
-      <Store_Location />
-      <Store_Location />
     </div>
   );
 };

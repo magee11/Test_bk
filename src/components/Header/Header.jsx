@@ -36,12 +36,53 @@ function Header() {
       {innerWidth < 1023 ? (
         <div className="headerWrapper">
           <div className="header_top">
-            <div className="headerLogo"></div>
-            <div className="ToggleSpace">
-              <div className="userMethod"></div>
-              <div className="locationBar"></div>
+            <div
+              className="headerLogo"
+              onClick={() => {
+                dispatch(IsOpen());
+              }}
+            >
+              <img
+                width="60%"
+                src="https://www.burgerkingdev.in/static/media/hamburger.916bf09d.svg"
+                alt=""
+              />
             </div>
-            <div className="seach"></div>
+            <div className="ToggleSpace">
+              <div className="userMethod">
+                <div className="dine_takeaway">Dine-In</div>
+                <div className="userMethod_btn">
+                  <div
+                    className="toggle button"
+                    onChange={() => {
+                      toggleChangeButton();
+                    }}
+                  >
+                    <label class="switch">
+                      <input type="checkbox" />
+                      <span class="slider round"></span>
+                    </label>
+                  </div>
+                </div>
+                <div className="delivery">Delivery</div>
+              </div>
+              <div className="locationBar">
+                <div>
+                  <img
+                    src="https://www.burgerkingdev.in/static/media/location.b472e06f.svg"
+                    alt=""
+                  />
+                  <span className="LocationName">Banglore,Indiranagar</span>
+                </div>
+              </div>
+            </div>
+            <div className="seach">
+              <img
+                width="50%"
+                src="https://www.burgerkingdev.in/static/media/search.03064934.svg"
+                alt=""
+              />
+            </div>
           </div>
           <div className="headerBottom"></div>
         </div>

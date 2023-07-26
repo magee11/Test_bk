@@ -1,0 +1,3469 @@
+{
+  "alert": null,
+  "content": [
+    {
+      "cart_item_id": "",
+      "cart_quantity": 0,
+      "description": null,
+      "entity_id": "P::1866693",
+      "food_type": "veg",
+      "id": "81e377ca0f284c4d9fa114c0748b5a8b",
+      "image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "image_urls": [
+        {
+          "category": "plp",
+          "images": [
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/1x_ms_20230719042736733023_164x90jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/2x_ms_20230719042735988351_328x180jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/3x_ms_20230719042739590280_492x270jpg"
+              },
+              "name": "mobile_sm"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/1x_ml_20230719042736611049_213x117jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/2x_ml_20230719042737507405_426x234jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/3x_ml_20230719042736048462_639x351jpg"
+              },
+              "name": "mobile_lg"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/1x_web_20230719042739837766_241x132jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/2x_web_20230719042737695716_482x264jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/3x_web_20230719042737005288_723x396jpg"
+              },
+              "name": "desktop"
+            }
+          ]
+        }
+      ],
+      "in_stock": true,
+      "is_addon": true,
+      "is_addon_added": false,
+      "is_combo": true,
+      "is_customise": false,
+      "is_has_addons": true,
+      "max_qty": null,
+      "min_qty": null,
+      "name": "Crispy Veg Burger+Fries(M)",
+      "offset": 75,
+      "order": null,
+      "page_no": 1,
+      "pdp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "plp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "price": null,
+      "product_addons": [],
+      "product_type": "delivery",
+      "service": null,
+      "tags": ["services", "veg", "dish"],
+      "taxes": [
+        "SGST_D_P_2.50",
+        "CGST_D_P_2.50",
+        "CGST_T_P_2.50",
+        "SGST_T_P_2.50"
+      ],
+      "variant_category": [
+        {
+          "name": "",
+          "variants": [
+            {
+              "actual_price": 175.0,
+              "addons": [],
+              "entity_id": "PV::2198263",
+              "is_takeway_support": false,
+              "name": "",
+              "offer_coupon_code": "BK Delivery Duos 2023",
+              "offer_description": "Flat Rs. 25 Off.  No Coupon Applicable.",
+              "price": 150.0,
+              "service": "delivery",
+              "takeaway_price": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cart_item_id": "",
+      "cart_quantity": 0,
+      "description": null,
+      "entity_id": "P::1866694",
+      "food_type": "veg",
+      "id": "2839c642dcd044bdb16a4e92f8ffd767",
+      "image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "image_urls": [
+        {
+          "category": "plp",
+          "images": [
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/1x_ms_20230719043846279480_164x90jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/2x_ms_20230719043845403211_328x180jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/3x_ms_20230719043847805766_492x270jpg"
+              },
+              "name": "mobile_sm"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/1x_ml_20230719043846098625_213x117jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/2x_ml_20230719043847036280_426x234jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/3x_ml_20230719043845488202_639x351jpg"
+              },
+              "name": "mobile_lg"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/1x_web_20230719043848133023_241x132jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/2x_web_20230719043847177104_482x264jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/3x_web_20230719043846532543_723x396jpg"
+              },
+              "name": "desktop"
+            }
+          ]
+        }
+      ],
+      "in_stock": true,
+      "is_addon": true,
+      "is_addon_added": false,
+      "is_combo": true,
+      "is_customise": false,
+      "is_has_addons": true,
+      "max_qty": null,
+      "min_qty": null,
+      "name": "Veg Crunchy Taco+Fries(M)",
+      "offset": 75,
+      "order": null,
+      "page_no": 1,
+      "pdp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "plp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "price": null,
+      "product_addons": [],
+      "product_type": "delivery",
+      "service": null,
+      "tags": ["services", "veg", "dish"],
+      "taxes": [
+        "SGST_D_P_2.50",
+        "CGST_D_P_2.50",
+        "CGST_T_P_2.50",
+        "SGST_T_P_2.50"
+      ],
+      "variant_category": [
+        {
+          "name": "",
+          "variants": [
+            {
+              "actual_price": 195.0,
+              "addons": [],
+              "entity_id": "PV::2198264",
+              "is_takeway_support": false,
+              "name": "",
+              "offer_coupon_code": "BK Delivery Duos 2023",
+              "offer_description": "Flat Rs. 25 Off.  No Coupon Applicable.",
+              "price": 170.0,
+              "service": "delivery",
+              "takeaway_price": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cart_item_id": "",
+      "cart_quantity": 0,
+      "description": null,
+      "entity_id": "P::1866695",
+      "food_type": "nonveg",
+      "id": "47609830906c4945be49888720a80394",
+      "image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "image_urls": [
+        {
+          "category": "plp",
+          "images": [
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/1x_ms_20230719043438313468_164x90jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/2x_ms_20230719043437544561_328x180jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/3x_ms_20230719043441379344_492x270jpg"
+              },
+              "name": "mobile_sm"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/1x_ml_20230719043438163484_213x117jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/2x_ml_20230719043439530212_426x234jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/3x_ml_20230719043437613000_639x351jpg"
+              },
+              "name": "mobile_lg"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/1x_web_20230719043441695109_241x132jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/2x_web_20230719043439725618_482x264jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/3x_web_20230719043438660412_723x396jpg"
+              },
+              "name": "desktop"
+            }
+          ]
+        }
+      ],
+      "in_stock": true,
+      "is_addon": true,
+      "is_addon_added": false,
+      "is_combo": true,
+      "is_customise": false,
+      "is_has_addons": true,
+      "max_qty": null,
+      "min_qty": null,
+      "name": "Crispy Chicken Burger+Fries(M)",
+      "offset": 75,
+      "order": null,
+      "page_no": 1,
+      "pdp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "plp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "price": null,
+      "product_addons": [],
+      "product_type": "delivery",
+      "service": null,
+      "tags": ["services", "dish", "non-veg"],
+      "taxes": [
+        "SGST_D_P_2.50",
+        "CGST_D_P_2.50",
+        "CGST_T_P_2.50",
+        "SGST_T_P_2.50"
+      ],
+      "variant_category": [
+        {
+          "name": "",
+          "variants": [
+            {
+              "actual_price": 195.0,
+              "addons": [],
+              "entity_id": "PV::2198265",
+              "is_takeway_support": false,
+              "name": "",
+              "offer_coupon_code": "BK Delivery Duos 2023",
+              "offer_description": "Flat Rs. 25 Off.  No Coupon Applicable.",
+              "price": 170.0,
+              "service": "delivery",
+              "takeaway_price": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cart_item_id": "",
+      "cart_quantity": 0,
+      "description": null,
+      "entity_id": "P::1866696",
+      "food_type": "veg",
+      "id": "300d34a74d474c0295dbcc80b5f28f31",
+      "image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "image_urls": [
+        {
+          "category": "plp",
+          "images": [
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/1x_ms_20230719043209851484_164x90jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/2x_ms_20230719043208814652_328x180jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/3x_ms_20230719043211883833_492x270jpg"
+              },
+              "name": "mobile_sm"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/1x_ml_20230719043209662697_213x117jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/2x_ml_20230719043210800961_426x234jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/3x_ml_20230719043209046155_639x351jpg"
+              },
+              "name": "mobile_lg"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/1x_web_20230719043212112270_241x132jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/2x_web_20230719043211140108_482x264jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/3x_web_20230719043210168675_723x396jpg"
+              },
+              "name": "desktop"
+            }
+          ]
+        }
+      ],
+      "in_stock": true,
+      "is_addon": true,
+      "is_addon_added": false,
+      "is_combo": true,
+      "is_customise": false,
+      "is_has_addons": true,
+      "max_qty": null,
+      "min_qty": null,
+      "name": "Crispy Veg Double Patty Burger+Fries(M)",
+      "offset": 75,
+      "order": null,
+      "page_no": 1,
+      "pdp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "plp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "price": null,
+      "product_addons": [],
+      "product_type": "delivery",
+      "service": null,
+      "tags": ["services", "veg", "dish"],
+      "taxes": [
+        "SGST_D_P_2.50",
+        "CGST_D_P_2.50",
+        "CGST_T_P_2.50",
+        "SGST_T_P_2.50"
+      ],
+      "variant_category": [
+        {
+          "name": "",
+          "variants": [
+            {
+              "actual_price": 200.0,
+              "addons": [],
+              "entity_id": "PV::2198266",
+              "is_takeway_support": false,
+              "name": "",
+              "offer_coupon_code": "BK Delivery Duos 2023",
+              "offer_description": "Flat Rs. 25 Off.  No Coupon Applicable.",
+              "price": 175.0,
+              "service": "delivery",
+              "takeaway_price": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cart_item_id": "",
+      "cart_quantity": 0,
+      "description": null,
+      "entity_id": "P::1866697",
+      "food_type": "nonveg",
+      "id": "4e731bbf893749c0ab6e5c3cc7f9b744",
+      "image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "image_urls": [
+        {
+          "category": "plp",
+          "images": [
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/1x_ms_20230719044207823519_164x90jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/2x_ms_20230719044206976020_328x180jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/3x_ms_20230719044209564922_492x270jpg"
+              },
+              "name": "mobile_sm"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/1x_ml_20230719044207689604_213x117jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/2x_ml_20230719044208504109_426x234jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/3x_ml_20230719044207074246_639x351jpg"
+              },
+              "name": "mobile_lg"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/1x_web_20230719044209853331_241x132jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/2x_web_20230719044208799387_482x264jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/3x_web_20230719044208029323_723x396jpg"
+              },
+              "name": "desktop"
+            }
+          ]
+        }
+      ],
+      "in_stock": true,
+      "is_addon": true,
+      "is_addon_added": false,
+      "is_combo": true,
+      "is_customise": false,
+      "is_has_addons": true,
+      "max_qty": null,
+      "min_qty": null,
+      "name": "Crunchy Chicken Taco+Fries(M)",
+      "offset": 75,
+      "order": null,
+      "page_no": 1,
+      "pdp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "plp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "price": null,
+      "product_addons": [],
+      "product_type": "delivery",
+      "service": null,
+      "tags": ["services", "dish", "non-veg"],
+      "taxes": [
+        "SGST_D_P_2.50",
+        "CGST_D_P_2.50",
+        "CGST_T_P_2.50",
+        "SGST_T_P_2.50"
+      ],
+      "variant_category": [
+        {
+          "name": "",
+          "variants": [
+            {
+              "actual_price": 215.0,
+              "addons": [],
+              "entity_id": "PV::2198267",
+              "is_takeway_support": false,
+              "name": "",
+              "offer_coupon_code": "BK Delivery Duos 2023",
+              "offer_description": "Flat Rs. 25 Off.  No Coupon Applicable.",
+              "price": 190.0,
+              "service": "delivery",
+              "takeaway_price": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cart_item_id": "",
+      "cart_quantity": 0,
+      "description": null,
+      "entity_id": "P::1866698",
+      "food_type": "veg",
+      "id": "dd763e66a6634db09728b9857443ca26",
+      "image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "image_urls": [
+        {
+          "category": "plp",
+          "images": [
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/1x_ms_20230719044420024184_164x90jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/2x_ms_20230719044419152891_328x180jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/3x_ms_20230719044421554730_492x270jpg"
+              },
+              "name": "mobile_sm"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/1x_ml_20230719044419936127_213x117jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/2x_ml_20230719044420585165_426x234jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/3x_ml_20230719044419271699_639x351jpg"
+              },
+              "name": "mobile_lg"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/1x_web_20230719044421772537_241x132jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/2x_web_20230719044420796975_482x264jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/3x_web_20230719044420224892_723x396jpg"
+              },
+              "name": "desktop"
+            }
+          ]
+        }
+      ],
+      "in_stock": true,
+      "is_addon": true,
+      "is_addon_added": false,
+      "is_combo": true,
+      "is_customise": false,
+      "is_has_addons": true,
+      "max_qty": null,
+      "min_qty": null,
+      "name": "BK Veggie Burger+Fries(M)",
+      "offset": 75,
+      "order": null,
+      "page_no": 1,
+      "pdp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "plp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "price": null,
+      "product_addons": [],
+      "product_type": "delivery",
+      "service": null,
+      "tags": ["services", "veg", "dish"],
+      "taxes": [
+        "SGST_D_P_2.50",
+        "CGST_D_P_2.50",
+        "CGST_T_P_2.50",
+        "SGST_T_P_2.50"
+      ],
+      "variant_category": [
+        {
+          "name": "",
+          "variants": [
+            {
+              "actual_price": 234.0,
+              "addons": [],
+              "entity_id": "PV::2198268",
+              "is_takeway_support": false,
+              "name": "",
+              "offer_coupon_code": "BK Delivery Duos 2023",
+              "offer_description": "Flat Rs. 25 Off.  No Coupon Applicable.",
+              "price": 209.0,
+              "service": "delivery",
+              "takeaway_price": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cart_item_id": "",
+      "cart_quantity": 0,
+      "description": null,
+      "entity_id": "P::1866699",
+      "food_type": "nonveg",
+      "id": "ddc9467bca0e4e44b8166d8fcae44be8",
+      "image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "image_urls": [
+        {
+          "category": "plp",
+          "images": [
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/1x_ms_20230719043643828132_164x90jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/2x_ms_20230719043643108816_328x180jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/3x_ms_20230719043645276694_492x270jpg"
+              },
+              "name": "mobile_sm"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/1x_ml_20230719043643665289_213x117jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/2x_ml_20230719043644500827_426x234jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/3x_ml_20230719043643205432_639x351jpg"
+              },
+              "name": "mobile_lg"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/1x_web_20230719043645467443_241x132jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/2x_web_20230719043644621533_482x264jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/3x_web_20230719043644070267_723x396jpg"
+              },
+              "name": "desktop"
+            }
+          ]
+        }
+      ],
+      "in_stock": true,
+      "is_addon": true,
+      "is_addon_added": false,
+      "is_combo": true,
+      "is_customise": false,
+      "is_has_addons": true,
+      "max_qty": null,
+      "min_qty": null,
+      "name": "Crispy Chicken Double Patty Burger+Fries(M)",
+      "offset": 75,
+      "order": null,
+      "page_no": 1,
+      "pdp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "plp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "price": null,
+      "product_addons": [],
+      "product_type": "delivery",
+      "service": null,
+      "tags": ["services", "dish", "non-veg"],
+      "taxes": [
+        "SGST_D_P_2.50",
+        "CGST_D_P_2.50",
+        "CGST_T_P_2.50",
+        "SGST_T_P_2.50"
+      ],
+      "variant_category": [
+        {
+          "name": "",
+          "variants": [
+            {
+              "actual_price": 234.0,
+              "addons": [],
+              "entity_id": "PV::2198269",
+              "is_takeway_support": false,
+              "name": "",
+              "offer_coupon_code": "BK Delivery Duos 2023",
+              "offer_description": "Flat Rs. 25 Off.  No Coupon Applicable.",
+              "price": 209.0,
+              "service": "delivery",
+              "takeaway_price": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cart_item_id": "",
+      "cart_quantity": 0,
+      "description": null,
+      "entity_id": "P::1866700",
+      "food_type": "nonveg",
+      "id": "6315b2cda0fd4dd6abdccfdeea7fbedb",
+      "image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "image_urls": [
+        {
+          "category": "plp",
+          "images": [
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/1x_ms_20230719044800217639_164x90jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/2x_ms_20230719044759304031_328x180jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/3x_ms_20230719044802562011_492x270jpg"
+              },
+              "name": "mobile_sm"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/1x_ml_20230719044759913839_213x117jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/2x_ml_20230719044801143234_426x234jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/3x_ml_20230719044759381023_639x351jpg"
+              },
+              "name": "mobile_lg"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/1x_web_20230719044802832298_241x132jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/2x_web_20230719044801328952_482x264jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/3x_web_20230719044800646188_723x396jpg"
+              },
+              "name": "desktop"
+            }
+          ]
+        }
+      ],
+      "in_stock": true,
+      "is_addon": true,
+      "is_addon_added": false,
+      "is_combo": true,
+      "is_customise": false,
+      "is_has_addons": true,
+      "max_qty": null,
+      "min_qty": null,
+      "name": "BK Chicken Burger+Fries(M)",
+      "offset": 75,
+      "order": null,
+      "page_no": 1,
+      "pdp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "plp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "price": null,
+      "product_addons": [],
+      "product_type": "delivery",
+      "service": null,
+      "tags": ["services", "dish", "non-veg"],
+      "taxes": [
+        "SGST_D_P_2.50",
+        "CGST_D_P_2.50",
+        "CGST_T_P_2.50",
+        "SGST_T_P_2.50"
+      ],
+      "variant_category": [
+        {
+          "name": "",
+          "variants": [
+            {
+              "actual_price": 244.0,
+              "addons": [],
+              "entity_id": "PV::2198270",
+              "is_takeway_support": false,
+              "name": "",
+              "offer_coupon_code": "BK Delivery Duos 2023",
+              "offer_description": "Flat Rs. 25 Off.  No Coupon Applicable.",
+              "price": 219.0,
+              "service": "delivery",
+              "takeaway_price": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cart_item_id": "",
+      "cart_quantity": 0,
+      "description": null,
+      "entity_id": "P::1866702",
+      "food_type": "veg",
+      "id": "f7a2bd15fe3a4cdf840b3667b633efd4",
+      "image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "image_urls": [
+        {
+          "category": "plp",
+          "images": [
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/1x_ms_20230719045258278089_164x90jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/2x_ms_20230719045257341081_328x180jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/3x_ms_20230719045300046003_492x270jpg"
+              },
+              "name": "mobile_sm"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/1x_ml_20230719045258005600_213x117jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/2x_ml_20230719045259149435_426x234jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/3x_ml_20230719045257419020_639x351jpg"
+              },
+              "name": "mobile_lg"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/1x_web_20230719045300575987_241x132jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/2x_web_20230719045259369430_482x264jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/3x_web_20230719045258668803_723x396jpg"
+              },
+              "name": "desktop"
+            }
+          ]
+        }
+      ],
+      "in_stock": true,
+      "is_addon": true,
+      "is_addon_added": false,
+      "is_combo": true,
+      "is_customise": false,
+      "is_has_addons": true,
+      "max_qty": null,
+      "min_qty": null,
+      "name": "Whopper Jr Veg+Fries(M)",
+      "offset": 75,
+      "order": null,
+      "page_no": 1,
+      "pdp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "plp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "price": null,
+      "product_addons": [],
+      "product_type": "delivery",
+      "service": null,
+      "tags": ["services", "veg", "dish"],
+      "taxes": [
+        "SGST_D_P_2.50",
+        "CGST_D_P_2.50",
+        "CGST_T_P_2.50",
+        "SGST_T_P_2.50"
+      ],
+      "variant_category": [
+        {
+          "name": "",
+          "variants": [
+            {
+              "actual_price": 254.0,
+              "addons": [],
+              "entity_id": "PV::2198272",
+              "is_takeway_support": false,
+              "name": "",
+              "offer_coupon_code": "BK Delivery Duos 2023",
+              "offer_description": "Flat Rs. 25 Off.  No Coupon Applicable.",
+              "price": 229.0,
+              "service": "delivery",
+              "takeaway_price": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cart_item_id": "",
+      "cart_quantity": 0,
+      "description": null,
+      "entity_id": "P::1866703",
+      "food_type": "veg",
+      "id": "88af9cf5cd7f4c08b7a1902b88d751e0",
+      "image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "image_urls": [
+        {
+          "category": "plp",
+          "images": [
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/1x_ms_20230719045526371336_164x90jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/2x_ms_20230719045525346358_328x180jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/3x_ms_20230719045528319490_492x270jpg"
+              },
+              "name": "mobile_sm"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/1x_ml_20230719045526086529_213x117jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/2x_ml_20230719045527037574_426x234jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/3x_ml_20230719045525428860_639x351jpg"
+              },
+              "name": "mobile_lg"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/1x_web_20230719045528879063_241x132jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/2x_web_20230719045527172384_482x264jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/3x_web_20230719045526614229_723x396jpg"
+              },
+              "name": "desktop"
+            }
+          ]
+        }
+      ],
+      "in_stock": true,
+      "is_addon": true,
+      "is_addon_added": false,
+      "is_combo": true,
+      "is_customise": false,
+      "is_has_addons": true,
+      "max_qty": null,
+      "min_qty": null,
+      "name": "Veg Whopper+Fries(M)",
+      "offset": 75,
+      "order": null,
+      "page_no": 1,
+      "pdp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "plp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "price": null,
+      "product_addons": [],
+      "product_type": "delivery",
+      "service": null,
+      "tags": ["services", "veg", "dish"],
+      "taxes": [
+        "SGST_D_P_2.50",
+        "CGST_D_P_2.50",
+        "CGST_T_P_2.50",
+        "SGST_T_P_2.50"
+      ],
+      "variant_category": [
+        {
+          "name": "",
+          "variants": [
+            {
+              "actual_price": 294.0,
+              "addons": [],
+              "entity_id": "PV::2198273",
+              "is_takeway_support": false,
+              "name": "",
+              "offer_coupon_code": "BK Delivery Duos 2023",
+              "offer_description": "Flat Rs. 25 Off.  No Coupon Applicable.",
+              "price": 269.0,
+              "service": "delivery",
+              "takeaway_price": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cart_item_id": "",
+      "cart_quantity": 0,
+      "description": null,
+      "entity_id": "P::1866704",
+      "food_type": "veg",
+      "id": "5ec31cb238794e8db0aaf1d539d40b2f",
+      "image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "image_urls": [
+        {
+          "category": "plp",
+          "images": [
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/1x_ms_20230719045912375543_164x90jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/2x_ms_20230719045911653327_328x180jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/3x_ms_20230719045914114088_492x270jpg"
+              },
+              "name": "mobile_sm"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/1x_ml_20230719045912205866_213x117jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/2x_ml_20230719045913029009_426x234jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/3x_ml_20230719045911713976_639x351jpg"
+              },
+              "name": "mobile_lg"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/1x_web_20230719045914293640_241x132jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/2x_web_20230719045913195427_482x264jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/3x_web_20230719045912578764_723x396jpg"
+              },
+              "name": "desktop"
+            }
+          ]
+        }
+      ],
+      "in_stock": true,
+      "is_addon": true,
+      "is_addon_added": false,
+      "is_combo": true,
+      "is_customise": false,
+      "is_has_addons": true,
+      "max_qty": null,
+      "min_qty": null,
+      "name": "Paneer Royale Wrap+Fries(M)",
+      "offset": 75,
+      "order": null,
+      "page_no": 1,
+      "pdp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "plp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "price": null,
+      "product_addons": [],
+      "product_type": "delivery",
+      "service": null,
+      "tags": ["services", "veg", "dish"],
+      "taxes": [
+        "SGST_D_P_2.50",
+        "CGST_D_P_2.50",
+        "CGST_T_P_2.50",
+        "SGST_T_P_2.50"
+      ],
+      "variant_category": [
+        {
+          "name": "",
+          "variants": [
+            {
+              "actual_price": 304.0,
+              "addons": [],
+              "entity_id": "PV::2198274",
+              "is_takeway_support": false,
+              "name": "",
+              "offer_coupon_code": "BK Delivery Duos 2023",
+              "offer_description": "Flat Rs. 25 Off.  No Coupon Applicable.",
+              "price": 279.0,
+              "service": "delivery",
+              "takeaway_price": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cart_item_id": "",
+      "cart_quantity": 0,
+      "description": null,
+      "entity_id": "P::1866705",
+      "food_type": "nonveg",
+      "id": "8ac3610c201e49669dfb4edf8609598f",
+      "image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "image_urls": [
+        {
+          "category": "plp",
+          "images": [
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/1x_ms_20230719045709280893_164x90jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/2x_ms_20230719045708205117_328x180jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/3x_ms_20230719045711026333_492x270jpg"
+              },
+              "name": "mobile_sm"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/1x_ml_20230719045709147729_213x117jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/2x_ml_20230719045710045143_426x234jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/3x_ml_20230719045708293608_639x351jpg"
+              },
+              "name": "mobile_lg"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/1x_web_20230719045711248319_241x132jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/2x_web_20230719045710157655_482x264jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/3x_web_20230719045709510925_723x396jpg"
+              },
+              "name": "desktop"
+            }
+          ]
+        }
+      ],
+      "in_stock": true,
+      "is_addon": true,
+      "is_addon_added": false,
+      "is_combo": true,
+      "is_customise": false,
+      "is_has_addons": true,
+      "max_qty": null,
+      "min_qty": null,
+      "name": "Chicken Whopper+Fries(M)",
+      "offset": 75,
+      "order": null,
+      "page_no": 1,
+      "pdp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "plp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "price": null,
+      "product_addons": [],
+      "product_type": "delivery",
+      "service": null,
+      "tags": ["services", "dish", "non-veg"],
+      "taxes": [
+        "SGST_D_P_2.50",
+        "CGST_D_P_2.50",
+        "CGST_T_P_2.50",
+        "SGST_T_P_2.50"
+      ],
+      "variant_category": [
+        {
+          "name": "",
+          "variants": [
+            {
+              "actual_price": 304.0,
+              "addons": [],
+              "entity_id": "PV::2198275",
+              "is_takeway_support": false,
+              "name": "",
+              "offer_coupon_code": "BK Delivery Duos 2023",
+              "offer_description": "Flat Rs. 25 Off.  No Coupon Applicable.",
+              "price": 279.0,
+              "service": "delivery",
+              "takeaway_price": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cart_item_id": "",
+      "cart_quantity": 0,
+      "description": "MRP: 218 |  Save 15%, 1 King Fries+1King Pepsi",
+      "entity_id": "P::1824092",
+      "food_type": "veg",
+      "id": "248c52f1898c477a983e051dda04cb2b",
+      "image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "image_urls": [
+        {
+          "category": "plp",
+          "images": [
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/1x_ms_20220916213049367853_164x90jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/2x_ms_20220916213048700320_328x180jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/3x_ms_20220916213050670629_492x270jpg"
+              },
+              "name": "mobile_sm"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/1x_ml_20220916213049257637_213x117jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/2x_ml_20220916213049959915_426x234jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/3x_ml_20220916213048783344_639x351jpg"
+              },
+              "name": "mobile_lg"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/1x_web_20220916213051066308_241x132jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/2x_web_20220916213050097408_482x264jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/3x_web_20220916213049602545_723x396jpg"
+              },
+              "name": "desktop"
+            }
+          ]
+        }
+      ],
+      "in_stock": true,
+      "is_addon": true,
+      "is_addon_added": false,
+      "is_combo": true,
+      "is_customise": false,
+      "is_has_addons": true,
+      "max_qty": null,
+      "min_qty": null,
+      "name": "Time Pass",
+      "offset": 75,
+      "order": null,
+      "page_no": 1,
+      "pdp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "plp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "price": null,
+      "product_addons": [],
+      "product_type": "delivery",
+      "service": null,
+      "tags": ["services", "veg", "dish"],
+      "taxes": [
+        "SGST_D_P_2.50",
+        "CGST_D_P_2.50",
+        "CGST_T_P_2.50",
+        "SGST_T_P_2.50"
+      ],
+      "variant_category": [
+        {
+          "name": "",
+          "variants": [
+            {
+              "addons": [],
+              "entity_id": "PV::2149075",
+              "is_takeway_support": false,
+              "name": "",
+              "price": 185.0,
+              "service": "delivery",
+              "takeaway_price": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cart_item_id": "",
+      "cart_quantity": 0,
+      "description": "Save Rs. 108 | 2 Crispy Chicken+1 King Fries+1 Cold Coffee+1 Medium Pepsi",
+      "entity_id": "P::1824103",
+      "food_type": "nonveg",
+      "id": "93b4de5fa766471681bf84067741845e",
+      "image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "image_urls": [
+        {
+          "category": "plp",
+          "images": [
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/1x_ms_20220917065734522989_164x90jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/2x_ms_20220917065731694507_328x180jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/3x_ms_20220917065736193960_492x270jpg"
+              },
+              "name": "mobile_sm"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/1x_ml_20220917065733958267_213x117jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/2x_ml_20220917065735173326_426x234jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/3x_ml_20220917065731783255_639x351jpg"
+              },
+              "name": "mobile_lg"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/1x_web_20220917065736425285_241x132jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/2x_web_20220917065735322134_482x264jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/3x_web_20220917065734714686_723x396jpg"
+              },
+              "name": "desktop"
+            }
+          ]
+        }
+      ],
+      "in_stock": true,
+      "is_addon": true,
+      "is_addon_added": false,
+      "is_combo": true,
+      "is_customise": false,
+      "is_has_addons": true,
+      "max_qty": null,
+      "min_qty": null,
+      "name": "2 Crispy Chicken+1 King Fries+1 Cold Coffee+1 Medium Pepsi",
+      "offset": 75,
+      "order": null,
+      "page_no": 1,
+      "pdp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "plp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "price": null,
+      "product_addons": [],
+      "product_type": "delivery",
+      "service": null,
+      "tags": ["services", "dish", "non-veg"],
+      "taxes": [
+        "SGST_D_P_2.50",
+        "CGST_D_P_2.50",
+        "CGST_T_P_2.50",
+        "SGST_T_P_2.50"
+      ],
+      "variant_category": [
+        {
+          "name": "",
+          "variants": [
+            {
+              "addons": [],
+              "entity_id": "PV::2149088",
+              "is_takeway_support": false,
+              "name": "",
+              "price": 489.0,
+              "service": "delivery",
+              "takeaway_price": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cart_item_id": "",
+      "cart_quantity": 0,
+      "description": "Save Rs 90 | 2 BK Veggie+1King Fries+1Chocolate Shake+1Pepsi(M)",
+      "entity_id": "P::1824082",
+      "food_type": "veg",
+      "id": "1b283816bee549489c926b113aa97af5",
+      "image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "image_urls": [
+        {
+          "category": "plp",
+          "images": [
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/1x_ms_20221115123830068024_164x90jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/2x_ms_20221115123829229186_328x180jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/3x_ms_20221115123831517190_492x270jpg"
+              },
+              "name": "mobile_sm"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/1x_ml_20221115123829877362_213x117jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/2x_ml_20221115123830805113_426x234jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/3x_ml_20221115123829312114_639x351jpg"
+              },
+              "name": "mobile_lg"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/1x_web_20221115123831772851_241x132jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/2x_web_20221115123831015899_482x264jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/3x_web_20221115123830266223_723x396jpg"
+              },
+              "name": "desktop"
+            }
+          ]
+        }
+      ],
+      "in_stock": true,
+      "is_addon": true,
+      "is_addon_added": false,
+      "is_combo": true,
+      "is_customise": false,
+      "is_has_addons": true,
+      "max_qty": null,
+      "min_qty": null,
+      "name": "Classic Duo - Veg",
+      "offset": 75,
+      "order": null,
+      "page_no": 1,
+      "pdp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "plp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "price": null,
+      "product_addons": [],
+      "product_type": "delivery",
+      "service": null,
+      "tags": ["services", "veg", "dish"],
+      "taxes": [
+        "SGST_D_P_2.50",
+        "CGST_D_P_2.50",
+        "CGST_T_P_2.50",
+        "SGST_T_P_2.50"
+      ],
+      "variant_category": [
+        {
+          "name": "",
+          "variants": [
+            {
+              "addons": [],
+              "entity_id": "PV::2149065",
+              "is_takeway_support": false,
+              "name": "",
+              "price": 475.0,
+              "service": "delivery",
+              "takeaway_price": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cart_item_id": "",
+      "cart_quantity": 0,
+      "description": "Save Rs 90 | 2 BK Chicken+1King Fries+1Chocolate Shake+1Pepsi(M)",
+      "entity_id": "P::1824083",
+      "food_type": "nonveg",
+      "id": "c009f4098c5a4cf09dea013a3a698bdc",
+      "image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "image_urls": [
+        {
+          "category": "plp",
+          "images": [
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/1x_ms_20221115124248986422_164x90jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/2x_ms_20221115124248235175_328x180jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/3x_ms_20221115124253007993_492x270jpg"
+              },
+              "name": "mobile_sm"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/1x_ml_20221115124248799852_213x117jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/2x_ml_20221115124249692033_426x234jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/3x_ml_20221115124248337425_639x351jpg"
+              },
+              "name": "mobile_lg"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/1x_web_20221115124253276159_241x132jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/2x_web_20221115124249832351_482x264jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/3x_web_20221115124249205195_723x396jpg"
+              },
+              "name": "desktop"
+            }
+          ]
+        }
+      ],
+      "in_stock": true,
+      "is_addon": true,
+      "is_addon_added": false,
+      "is_combo": true,
+      "is_customise": false,
+      "is_has_addons": true,
+      "max_qty": null,
+      "min_qty": null,
+      "name": "Classic Duo - Non Veg",
+      "offset": 75,
+      "order": null,
+      "page_no": 1,
+      "pdp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "plp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "price": null,
+      "product_addons": [],
+      "product_type": "delivery",
+      "service": null,
+      "tags": ["services", "dish", "non-veg"],
+      "taxes": [
+        "SGST_D_P_2.50",
+        "CGST_D_P_2.50",
+        "CGST_T_P_2.50",
+        "SGST_T_P_2.50"
+      ],
+      "variant_category": [
+        {
+          "name": "",
+          "variants": [
+            {
+              "addons": [],
+              "entity_id": "PV::2149066",
+              "is_takeway_support": false,
+              "name": "",
+              "price": 515.0,
+              "service": "delivery",
+              "takeaway_price": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cart_item_id": "",
+      "cart_quantity": 0,
+      "description": "Save Rs. 107 | 1 Crispy Veg+1 BK Veggie Burger+1 King Fries+1 Cold Coffee+1 Medium Pepsi",
+      "entity_id": "P::1846098",
+      "food_type": "veg",
+      "id": "8821564eaf9f40e4b46d1dc54e105ad1",
+      "image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "image_urls": [
+        {
+          "category": "plp",
+          "images": [
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/1xmsPlaceholder164x90ProductListjpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/2xmsPlaceholder328x180ProductListjpg",
+                "3x": "http://d1rgpf387mknul.cloudfront.net/products/PLP/ms/3xmsPlaceholder492x270ProductListjpg"
+              },
+              "name": "mobile_sm"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/1xmlPlaceholder213x117ProductListjpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/2xmlPlaceholder426x234ProductListjpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/3xmlPlaceholder639x351ProductListjpg"
+              },
+              "name": "mobile_lg"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/1xwebPlaceholder241x132ProductListjpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/2xwebPlaceholder482x264ProductListjpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/3xwebPlaceholder723x396ProductListjpg"
+              },
+              "name": "desktop"
+            }
+          ]
+        }
+      ],
+      "in_stock": true,
+      "is_addon": true,
+      "is_addon_added": false,
+      "is_combo": true,
+      "is_customise": false,
+      "is_has_addons": true,
+      "max_qty": null,
+      "min_qty": null,
+      "name": "1 Crispy Veg+1 BK Veggie Burger+1 King Fries+1 Cold Coffee+1 Medium Pepsi",
+      "offset": 75,
+      "order": null,
+      "page_no": 1,
+      "pdp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "plp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "price": null,
+      "product_addons": [],
+      "product_type": "delivery",
+      "service": null,
+      "tags": ["services", "veg"],
+      "taxes": [
+        "SGST_D_P_2.50",
+        "CGST_D_P_2.50",
+        "CGST_T_P_2.50",
+        "SGST_T_P_2.50"
+      ],
+      "variant_category": [
+        {
+          "name": "",
+          "variants": [
+            {
+              "addons": [],
+              "entity_id": "PV::2174313",
+              "is_takeway_support": false,
+              "name": "",
+              "price": 489.0,
+              "service": "delivery",
+              "takeaway_price": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cart_item_id": "",
+      "cart_quantity": 0,
+      "description": "Save Rs 90 | 2Veg Whopper+1King Fries+1Chocolate Shake+1Pepsi(M)",
+      "entity_id": "P::1824075",
+      "food_type": "veg",
+      "id": "871fbf6b7436454590313132e9f66250",
+      "image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "image_urls": [
+        {
+          "category": "plp",
+          "images": [
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/1x_ms_20230315061414008690_164x90jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/2x_ms_20230315061412602813_328x180jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/3x_ms_20230315061416841047_492x270jpg"
+              },
+              "name": "mobile_sm"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/1x_ml_20230315061413511144_213x117jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/2x_ml_20230315061415526045_426x234jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/3x_ml_20230315061412705661_639x351jpg"
+              },
+              "name": "mobile_lg"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/1x_web_20230315061417805460_241x132jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/2x_web_20230315061415759100_482x264jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/3x_web_20230315061414502675_723x396jpg"
+              },
+              "name": "desktop"
+            }
+          ]
+        }
+      ],
+      "in_stock": true,
+      "is_addon": true,
+      "is_addon_added": false,
+      "is_combo": true,
+      "is_customise": false,
+      "is_has_addons": true,
+      "max_qty": null,
+      "min_qty": null,
+      "name": "Whopper Duo - Veg",
+      "offset": 75,
+      "order": null,
+      "page_no": 1,
+      "pdp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "plp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "price": null,
+      "product_addons": [],
+      "product_type": "delivery",
+      "service": null,
+      "tags": ["services", "veg", "dish"],
+      "taxes": [
+        "SGST_D_P_2.50",
+        "CGST_D_P_2.50",
+        "CGST_T_P_2.50",
+        "SGST_T_P_2.50"
+      ],
+      "variant_category": [
+        {
+          "name": "",
+          "variants": [
+            {
+              "actual_price": 755.0,
+              "addons": [],
+              "entity_id": "PV::2149058",
+              "is_takeway_support": false,
+              "name": "",
+              "offer_coupon_code": "Duo Combos - DEL",
+              "offer_description": "No Coupon Applicable",
+              "price": 665.0,
+              "service": "delivery",
+              "takeaway_price": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cart_item_id": "",
+      "cart_quantity": 0,
+      "description": "Save Rs 90 | 2Chicken Whopper+1King Fries +1Chocolate Shake +1Pepsi(M)",
+      "entity_id": "P::1824076",
+      "food_type": "nonveg",
+      "id": "4ce4a44bebb44d2b8ee2430f834dc005",
+      "image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "image_urls": [
+        {
+          "category": "plp",
+          "images": [
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/1x_ms_20220916222320090675_164x90jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/2x_ms_20220916222319442340_328x180jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/3x_ms_20220916222321636713_492x270jpg"
+              },
+              "name": "mobile_sm"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/1x_ml_20220916222319951575_213x117jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/2x_ml_20220916222320810588_426x234jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/3x_ml_20220916222319509577_639x351jpg"
+              },
+              "name": "mobile_lg"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/1x_web_20220916222321913099_241x132jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/2x_web_20220916222320985875_482x264jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/3x_web_20220916222320278155_723x396jpg"
+              },
+              "name": "desktop"
+            }
+          ]
+        }
+      ],
+      "in_stock": true,
+      "is_addon": true,
+      "is_addon_added": false,
+      "is_combo": true,
+      "is_customise": false,
+      "is_has_addons": true,
+      "max_qty": null,
+      "min_qty": null,
+      "name": "Whopper Duo - Non Veg",
+      "offset": 75,
+      "order": null,
+      "page_no": 1,
+      "pdp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "plp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "price": null,
+      "product_addons": [],
+      "product_type": "delivery",
+      "service": null,
+      "tags": ["services", "dish", "non-veg"],
+      "taxes": [
+        "SGST_D_P_2.50",
+        "CGST_D_P_2.50",
+        "CGST_T_P_2.50",
+        "SGST_T_P_2.50"
+      ],
+      "variant_category": [
+        {
+          "name": "",
+          "variants": [
+            {
+              "actual_price": 795.0,
+              "addons": [],
+              "entity_id": "PV::2149059",
+              "is_takeway_support": false,
+              "name": "",
+              "offer_coupon_code": "Duo Combos - DEL",
+              "offer_description": "No Coupon Applicable",
+              "price": 705.0,
+              "service": "delivery",
+              "takeaway_price": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cart_item_id": "",
+      "cart_quantity": 0,
+      "description": "Save Rs 90 | 2Hot'N'Cheezy+1King Fries+2Pepsi(M)",
+      "entity_id": "P::1824077",
+      "food_type": "veg",
+      "id": "a312cb3f044346df985bf20672484b8b",
+      "image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "image_urls": [
+        {
+          "category": "plp",
+          "images": [
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/1x_ms_20220916222357764113_164x90jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/2x_ms_20220916222356970401_328x180jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/3x_ms_20220916222359305834_492x270jpg"
+              },
+              "name": "mobile_sm"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/1x_ml_20220916222357616368_213x117jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/2x_ml_20220916222358525593_426x234jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/3x_ml_20220916222357037488_639x351jpg"
+              },
+              "name": "mobile_lg"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/1x_web_20220916222359482648_241x132jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/2x_web_20220916222358629601_482x264jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/3x_web_20220916222358061307_723x396jpg"
+              },
+              "name": "desktop"
+            }
+          ]
+        }
+      ],
+      "in_stock": true,
+      "is_addon": true,
+      "is_addon_added": false,
+      "is_combo": true,
+      "is_customise": false,
+      "is_has_addons": true,
+      "max_qty": null,
+      "min_qty": null,
+      "name": "Cheezy Duo - Veg",
+      "offset": 75,
+      "order": null,
+      "page_no": 1,
+      "pdp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "plp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "price": null,
+      "product_addons": [],
+      "product_type": "delivery",
+      "service": null,
+      "tags": ["services", "veg", "dish"],
+      "taxes": [
+        "SGST_D_P_2.50",
+        "CGST_D_P_2.50",
+        "CGST_T_P_2.50",
+        "SGST_T_P_2.50"
+      ],
+      "variant_category": [
+        {
+          "name": "",
+          "variants": [
+            {
+              "actual_price": 695.0,
+              "addons": [],
+              "entity_id": "PV::2149060",
+              "is_takeway_support": false,
+              "name": "",
+              "offer_coupon_code": "Duo Combos - DEL",
+              "offer_description": "No Coupon Applicable",
+              "price": 605.0,
+              "service": "delivery",
+              "takeaway_price": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cart_item_id": "",
+      "cart_quantity": 0,
+      "description": "Save Rs 90 | 2 Fiery Chicken+1 King Fries+2 Pepsi(M)",
+      "entity_id": "P::1824078",
+      "food_type": "nonveg",
+      "id": "88fec4e24f864cd7a9a12121d8b17d8f",
+      "image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "image_urls": [
+        {
+          "category": "plp",
+          "images": [
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/1x_ms_20220916222435676589_164x90jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/2x_ms_20220916222435030023_328x180jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/3x_ms_20220916222437051226_492x270jpg"
+              },
+              "name": "mobile_sm"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/1x_ml_20220916222435557617_213x117jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/2x_ml_20220916222436337721_426x234jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/3x_ml_20220916222435087467_639x351jpg"
+              },
+              "name": "mobile_lg"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/1x_web_20220916222437345300_241x132jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/2x_web_20220916222436442867_482x264jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/3x_web_20220916222435892038_723x396jpg"
+              },
+              "name": "desktop"
+            }
+          ]
+        }
+      ],
+      "in_stock": true,
+      "is_addon": true,
+      "is_addon_added": false,
+      "is_combo": true,
+      "is_customise": false,
+      "is_has_addons": true,
+      "max_qty": null,
+      "min_qty": null,
+      "name": "Fiery Duo - Non Veg",
+      "offset": 75,
+      "order": null,
+      "page_no": 1,
+      "pdp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "plp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "price": null,
+      "product_addons": [],
+      "product_type": "delivery",
+      "service": null,
+      "tags": ["services", "dish", "non-veg"],
+      "taxes": [
+        "SGST_D_P_2.50",
+        "CGST_D_P_2.50",
+        "CGST_T_P_2.50",
+        "SGST_T_P_2.50"
+      ],
+      "variant_category": [
+        {
+          "name": "",
+          "variants": [
+            {
+              "actual_price": 695.0,
+              "addons": [],
+              "entity_id": "PV::2149061",
+              "is_takeway_support": false,
+              "name": "",
+              "offer_coupon_code": "Duo Combos - DEL",
+              "offer_description": "No Coupon Applicable",
+              "price": 605.0,
+              "service": "delivery",
+              "takeaway_price": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cart_item_id": "",
+      "cart_quantity": 0,
+      "description": "Save Rs 90 | 2Crispy Veg Double Patty+1King Fries+2Chocolate Shake",
+      "entity_id": "P::1824084",
+      "food_type": "veg",
+      "id": "7c419b1aecaa4e089db44cd94caf3370",
+      "image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "image_urls": [
+        {
+          "category": "plp",
+          "images": [
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/1x_ms_20220916222711470412_164x90jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/2x_ms_20220916222710936300_328x180jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/3x_ms_20220916222712672834_492x270jpg"
+              },
+              "name": "mobile_sm"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/1x_ml_20220916222711350158_213x117jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/2x_ml_20220916222711952317_426x234jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/3x_ml_20220916222710993871_639x351jpg"
+              },
+              "name": "mobile_lg"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/1x_web_20220916222712800597_241x132jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/2x_web_20220916222712076064_482x264jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/3x_web_20220916222711648420_723x396jpg"
+              },
+              "name": "desktop"
+            }
+          ]
+        }
+      ],
+      "in_stock": true,
+      "is_addon": true,
+      "is_addon_added": false,
+      "is_combo": true,
+      "is_customise": false,
+      "is_has_addons": true,
+      "max_qty": null,
+      "min_qty": null,
+      "name": "Binging Duo - Veg",
+      "offset": 75,
+      "order": null,
+      "page_no": 1,
+      "pdp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "plp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "price": null,
+      "product_addons": [],
+      "product_type": "delivery",
+      "service": null,
+      "tags": ["services", "veg", "dish"],
+      "taxes": [
+        "SGST_D_P_2.50",
+        "CGST_D_P_2.50",
+        "CGST_T_P_2.50",
+        "SGST_T_P_2.50"
+      ],
+      "variant_category": [
+        {
+          "name": "",
+          "variants": [
+            {
+              "actual_price": 647.0,
+              "addons": [],
+              "entity_id": "PV::2149067",
+              "is_takeway_support": false,
+              "name": "",
+              "offer_coupon_code": "Duo Combos - DEL",
+              "offer_description": "No Coupon Applicable",
+              "price": 557.0,
+              "service": "delivery",
+              "takeaway_price": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cart_item_id": "",
+      "cart_quantity": 0,
+      "description": "Save Rs 90 | 2Crispy Chicken Double patty+1King Fries+2Chocolate Shake",
+      "entity_id": "P::1824085",
+      "food_type": "nonveg",
+      "id": "229cf65cf0174ac5b35b92e71669fe8e",
+      "image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "image_urls": [
+        {
+          "category": "plp",
+          "images": [
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/1x_ms_20220916222807895391_164x90jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/2x_ms_20220916222807359126_328x180jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/3x_ms_20220916222809076833_492x270jpg"
+              },
+              "name": "mobile_sm"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/1x_ml_20220916222807772363_213x117jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/2x_ml_20220916222808420185_426x234jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/3x_ml_20220916222807415771_639x351jpg"
+              },
+              "name": "mobile_lg"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/1x_web_20220916222809226034_241x132jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/2x_web_20220916222808532774_482x264jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/3x_web_20220916222808096302_723x396jpg"
+              },
+              "name": "desktop"
+            }
+          ]
+        }
+      ],
+      "in_stock": true,
+      "is_addon": true,
+      "is_addon_added": false,
+      "is_combo": true,
+      "is_customise": false,
+      "is_has_addons": true,
+      "max_qty": null,
+      "min_qty": null,
+      "name": "Binging Duo - Non\u00a0 Veg",
+      "offset": 75,
+      "order": null,
+      "page_no": 1,
+      "pdp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "plp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "price": null,
+      "product_addons": [],
+      "product_type": "delivery",
+      "service": null,
+      "tags": ["services", "dish", "non-veg"],
+      "taxes": [
+        "SGST_D_P_2.50",
+        "CGST_D_P_2.50",
+        "CGST_T_P_2.50",
+        "SGST_T_P_2.50"
+      ],
+      "variant_category": [
+        {
+          "name": "",
+          "variants": [
+            {
+              "actual_price": 755.0,
+              "addons": [],
+              "entity_id": "PV::2149068",
+              "is_takeway_support": false,
+              "name": "",
+              "offer_coupon_code": "Duo Combos - DEL",
+              "offer_description": "No Coupon Applicable",
+              "price": 665.0,
+              "service": "delivery",
+              "takeaway_price": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cart_item_id": "",
+      "cart_quantity": 0,
+      "description": "Save Rs 90 | 2Paneer Royale+1King Fries+2Pepsi(M)",
+      "entity_id": "P::1824087",
+      "food_type": "veg",
+      "id": "0150d26f382841029af0952cac838ad2",
+      "image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "image_urls": [
+        {
+          "category": "plp",
+          "images": [
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/1x_ms_20220916222906720276_164x90jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/2x_ms_20220916222906073869_328x180jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/3x_ms_20220916222908068146_492x270jpg"
+              },
+              "name": "mobile_sm"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/1x_ml_20220916222906589745_213x117jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/2x_ml_20220916222907303988_426x234jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/3x_ml_20220916222906118975_639x351jpg"
+              },
+              "name": "mobile_lg"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/1x_web_20220916222908240221_241x132jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/2x_web_20220916222907436616_482x264jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/3x_web_20220916222906902233_723x396jpg"
+              },
+              "name": "desktop"
+            }
+          ]
+        }
+      ],
+      "in_stock": true,
+      "is_addon": true,
+      "is_addon_added": false,
+      "is_combo": true,
+      "is_customise": false,
+      "is_has_addons": true,
+      "max_qty": null,
+      "min_qty": null,
+      "name": "Indulgent Duo - Veg",
+      "offset": 75,
+      "order": null,
+      "page_no": 1,
+      "pdp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "plp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "price": null,
+      "product_addons": [],
+      "product_type": "delivery",
+      "service": null,
+      "tags": ["services", "veg", "dish"],
+      "taxes": [
+        "SGST_D_P_2.50",
+        "CGST_D_P_2.50",
+        "CGST_T_P_2.50",
+        "SGST_T_P_2.50"
+      ],
+      "variant_category": [
+        {
+          "name": "",
+          "variants": [
+            {
+              "actual_price": 695.0,
+              "addons": [],
+              "entity_id": "PV::2149070",
+              "is_takeway_support": false,
+              "name": "",
+              "offer_coupon_code": "Duo Combos - DEL",
+              "offer_description": "No Coupon Applicable",
+              "price": 605.0,
+              "service": "delivery",
+              "takeaway_price": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cart_item_id": "",
+      "cart_quantity": 0,
+      "description": "Save Rs 90 | 2Chicken Tandoor Grill+1King Fries+2Pepsi(M)",
+      "entity_id": "P::1824088",
+      "food_type": "nonveg",
+      "id": "3b90d0cd587046e0a571ca971cd7fb69",
+      "image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "image_urls": [
+        {
+          "category": "plp",
+          "images": [
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/1x_ms_20220916222934409533_164x90jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/2x_ms_20220916222933608936_328x180jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/3x_ms_20220916222935802806_492x270jpg"
+              },
+              "name": "mobile_sm"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/1x_ml_20220916222934237758_213x117jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/2x_ml_20220916222935092210_426x234jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/3x_ml_20220916222933716680_639x351jpg"
+              },
+              "name": "mobile_lg"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/1x_web_20220916222936016916_241x132jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/2x_web_20220916222935208644_482x264jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/3x_web_20220916222934632872_723x396jpg"
+              },
+              "name": "desktop"
+            }
+          ]
+        }
+      ],
+      "in_stock": true,
+      "is_addon": true,
+      "is_addon_added": false,
+      "is_combo": true,
+      "is_customise": false,
+      "is_has_addons": true,
+      "max_qty": null,
+      "min_qty": null,
+      "name": "Indulgent Duo - Non Veg",
+      "offset": 75,
+      "order": null,
+      "page_no": 1,
+      "pdp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "plp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "price": null,
+      "product_addons": [],
+      "product_type": "delivery",
+      "service": null,
+      "tags": ["services", "dish", "non-veg"],
+      "taxes": [
+        "SGST_D_P_2.50",
+        "CGST_D_P_2.50",
+        "CGST_T_P_2.50",
+        "SGST_T_P_2.50"
+      ],
+      "variant_category": [
+        {
+          "name": "",
+          "variants": [
+            {
+              "actual_price": 695.0,
+              "addons": [],
+              "entity_id": "PV::2149071",
+              "is_takeway_support": false,
+              "name": "",
+              "offer_coupon_code": "Duo Combos - DEL",
+              "offer_description": "No Coupon Applicable",
+              "price": 605.0,
+              "service": "delivery",
+              "takeaway_price": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cart_item_id": "",
+      "cart_quantity": 0,
+      "description": "Save Rs 90 | 2 Crispy Chicken Double patty+1 King Fries+2 Classic Cold Coffee",
+      "entity_id": "P::1824081",
+      "food_type": "nonveg",
+      "id": "c38988bfd8154f1db5972946a7fc4f70",
+      "image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "image_urls": [
+        {
+          "category": "plp",
+          "images": [
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/1x_ms_20220917064337862978_164x90jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/2x_ms_20220917064337217049_328x180jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/3x_ms_20220917064339319144_492x270jpg"
+              },
+              "name": "mobile_sm"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/1x_ml_20220917064337750897_213x117jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/2x_ml_20220917064338510500_426x234jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/3x_ml_20220917064337304263_639x351jpg"
+              },
+              "name": "mobile_lg"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/1x_web_20220917064339515321_241x132jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/2x_web_20220917064338617363_482x264jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/3x_web_20220917064338101370_723x396jpg"
+              },
+              "name": "desktop"
+            }
+          ]
+        }
+      ],
+      "in_stock": true,
+      "is_addon": true,
+      "is_addon_added": false,
+      "is_combo": true,
+      "is_customise": false,
+      "is_has_addons": true,
+      "max_qty": null,
+      "min_qty": null,
+      "name": "High On Coffee Duo- Non Veg",
+      "offset": 75,
+      "order": null,
+      "page_no": 1,
+      "pdp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "plp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "price": null,
+      "product_addons": [],
+      "product_type": "delivery",
+      "service": null,
+      "tags": ["services", "dish", "non-veg"],
+      "taxes": [
+        "SGST_D_P_2.50",
+        "CGST_D_P_2.50",
+        "CGST_T_P_2.50",
+        "SGST_T_P_2.50"
+      ],
+      "variant_category": [
+        {
+          "name": "",
+          "variants": [
+            {
+              "addons": [],
+              "entity_id": "PV::2149064",
+              "is_takeway_support": false,
+              "name": "",
+              "price": 667.0,
+              "service": "delivery",
+              "takeaway_price": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cart_item_id": "",
+      "cart_quantity": 0,
+      "description": "Save Rs 90 | 2Crispy Veg Double Patty+1King Fries+2Classic Cold Coffee",
+      "entity_id": "P::1824079",
+      "food_type": "veg",
+      "id": "4614b5f941d44116a200c1c78aba3b34",
+      "image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "image_urls": [
+        {
+          "category": "plp",
+          "images": [
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/1x_ms_20220917062321874506_164x90jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/2x_ms_20220917062320902139_328x180jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/3x_ms_20220917062323512213_492x270jpg"
+              },
+              "name": "mobile_sm"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/1x_ml_20220917062321707548_213x117jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/2x_ml_20220917062322560731_426x234jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/3x_ml_20220917062320968129_639x351jpg"
+              },
+              "name": "mobile_lg"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/1x_web_20220917062323715806_241x132jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/2x_web_20220917062322654070_482x264jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/3x_web_20220917062322127679_723x396jpg"
+              },
+              "name": "desktop"
+            }
+          ]
+        }
+      ],
+      "in_stock": true,
+      "is_addon": true,
+      "is_addon_added": false,
+      "is_combo": true,
+      "is_customise": false,
+      "is_has_addons": true,
+      "max_qty": null,
+      "min_qty": null,
+      "name": "High On Coffee Duo- Veg",
+      "offset": 75,
+      "order": null,
+      "page_no": 1,
+      "pdp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "plp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "price": null,
+      "product_addons": [],
+      "product_type": "delivery",
+      "service": null,
+      "tags": ["services", "veg", "dish"],
+      "taxes": [
+        "SGST_D_P_2.50",
+        "CGST_D_P_2.50",
+        "CGST_T_P_2.50",
+        "SGST_T_P_2.50"
+      ],
+      "variant_category": [
+        {
+          "name": "",
+          "variants": [
+            {
+              "addons": [],
+              "entity_id": "PV::2149062",
+              "is_takeway_support": false,
+              "name": "",
+              "price": 587.0,
+              "service": "delivery",
+              "takeaway_price": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cart_item_id": "",
+      "cart_quantity": 0,
+      "description": "MRP: 409 |  Save 15%, Crispy Veg Double Patty + Hot 'N' Cheezy+Med Fries + Easy Cheesy Dip",
+      "entity_id": "P::1824089",
+      "food_type": "veg",
+      "id": "3d18de64a5c14cdc901d5a55a515f1c6",
+      "image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "image_urls": [
+        {
+          "category": "plp",
+          "images": [
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/1x_ms_20220916212747766783_164x90jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/2x_ms_20220916212747048740_328x180jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/3x_ms_20220916212749139738_492x270jpg"
+              },
+              "name": "mobile_sm"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/1x_ml_20220916212747635026_213x117jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/2x_ml_20220916212748409355_426x234jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/3x_ml_20220916212747111965_639x351jpg"
+              },
+              "name": "mobile_lg"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/1x_web_20220916212749313536_241x132jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/2x_web_20220916212748545860_482x264jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/3x_web_20220916212748004883_723x396jpg"
+              },
+              "name": "desktop"
+            }
+          ]
+        }
+      ],
+      "in_stock": true,
+      "is_addon": true,
+      "is_addon_added": false,
+      "is_combo": true,
+      "is_customise": false,
+      "is_has_addons": true,
+      "max_qty": null,
+      "min_qty": null,
+      "name": "Crispy Cheezy",
+      "offset": 75,
+      "order": null,
+      "page_no": 1,
+      "pdp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "plp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "price": null,
+      "product_addons": [],
+      "product_type": "delivery",
+      "service": null,
+      "tags": ["services", "veg", "dish"],
+      "taxes": [
+        "SGST_D_P_2.50",
+        "CGST_D_P_2.50",
+        "CGST_T_P_2.50",
+        "SGST_T_P_2.50"
+      ],
+      "variant_category": [
+        {
+          "name": "",
+          "variants": [
+            {
+              "addons": [],
+              "entity_id": "PV::2149072",
+              "is_takeway_support": false,
+              "name": "",
+              "price": 359.0,
+              "service": "delivery",
+              "takeaway_price": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cart_item_id": "",
+      "cart_quantity": 0,
+      "description": "MRP: 318 |  Save 15%, Hot 'N' Cheezy Burger+1King Fries",
+      "entity_id": "P::1824093",
+      "food_type": "veg",
+      "id": "74ff2613d4a647a2aa1da9c3d5a1788f",
+      "image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "image_urls": [
+        {
+          "category": "plp",
+          "images": [
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/1x_ms_20220916213126232092_164x90jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/2x_ms_20220916213125698109_328x180jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/3x_ms_20220916213127430698_492x270jpg"
+              },
+              "name": "mobile_sm"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/1x_ml_20220916213126071774_213x117jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/2x_ml_20220916213126843695_426x234jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/3x_ml_20220916213125742013_639x351jpg"
+              },
+              "name": "mobile_lg"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/1x_web_20220916213127587836_241x132jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/2x_web_20220916213126972594_482x264jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/3x_web_20220916213126403085_723x396jpg"
+              },
+              "name": "desktop"
+            }
+          ]
+        }
+      ],
+      "in_stock": true,
+      "is_addon": true,
+      "is_addon_added": false,
+      "is_combo": true,
+      "is_customise": false,
+      "is_has_addons": true,
+      "max_qty": null,
+      "min_qty": null,
+      "name": "Cheezy Bite",
+      "offset": 75,
+      "order": null,
+      "page_no": 1,
+      "pdp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "plp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "price": null,
+      "product_addons": [],
+      "product_type": "delivery",
+      "service": null,
+      "tags": ["services", "veg", "dish"],
+      "taxes": [
+        "SGST_D_P_2.50",
+        "CGST_D_P_2.50",
+        "CGST_T_P_2.50",
+        "SGST_T_P_2.50"
+      ],
+      "variant_category": [
+        {
+          "name": "",
+          "variants": [
+            {
+              "addons": [],
+              "entity_id": "PV::2149076",
+              "is_takeway_support": false,
+              "name": "",
+              "price": 270.0,
+              "service": "delivery",
+              "takeaway_price": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cart_item_id": "",
+      "cart_quantity": 0,
+      "description": "MRP: 318 |  Save 15%, Fiery Chicken Burger + 1 King Fries",
+      "entity_id": "P::1824094",
+      "food_type": "nonveg",
+      "id": "08246b5e65954441b811f72fb023a38a",
+      "image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "image_urls": [
+        {
+          "category": "plp",
+          "images": [
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/1x_ms_20220916213220455541_164x90jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/2x_ms_20220916213219621839_328x180jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/3x_ms_20220916213221956528_492x270jpg"
+              },
+              "name": "mobile_sm"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/1x_ml_20220916213220323095_213x117jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/2x_ml_20220916213221173111_426x234jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/3x_ml_20220916213219683842_639x351jpg"
+              },
+              "name": "mobile_lg"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/1x_web_20220916213222119298_241x132jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/2x_web_20220916213221322877_482x264jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/3x_web_20220916213220679810_723x396jpg"
+              },
+              "name": "desktop"
+            }
+          ]
+        }
+      ],
+      "in_stock": true,
+      "is_addon": true,
+      "is_addon_added": false,
+      "is_combo": true,
+      "is_customise": false,
+      "is_has_addons": true,
+      "max_qty": null,
+      "min_qty": null,
+      "name": "Fire Me Up",
+      "offset": 75,
+      "order": null,
+      "page_no": 1,
+      "pdp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "plp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "price": null,
+      "product_addons": [],
+      "product_type": "delivery",
+      "service": null,
+      "tags": ["services", "dish", "non-veg"],
+      "taxes": [
+        "SGST_D_P_2.50",
+        "CGST_D_P_2.50",
+        "CGST_T_P_2.50",
+        "SGST_T_P_2.50"
+      ],
+      "variant_category": [
+        {
+          "name": "",
+          "variants": [
+            {
+              "addons": [],
+              "entity_id": "PV::2149077",
+              "is_takeway_support": false,
+              "name": "",
+              "price": 270.0,
+              "service": "delivery",
+              "takeaway_price": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cart_item_id": "",
+      "cart_quantity": 0,
+      "description": "MRP: 487 |  Save 15%, Hot 'N' Cheezy Burger+Veg Whopper+1 King Fries",
+      "entity_id": "P::1824095",
+      "food_type": "veg",
+      "id": "0f47483c37b142b28a745b8f9d640b08",
+      "image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "image_urls": [
+        {
+          "category": "plp",
+          "images": [
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/1x_ms_20220916213251083665_164x90jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/2x_ms_20220916213250350807_328x180jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/3x_ms_20220916213253600305_492x270jpg"
+              },
+              "name": "mobile_sm"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/1x_ml_20220916213250881245_213x117jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/2x_ml_20220916213251707405_426x234jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/3x_ml_20220916213250410760_639x351jpg"
+              },
+              "name": "mobile_lg"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/1x_web_20220916213253835634_241x132jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/2x_web_20220916213252473499_482x264jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/3x_web_20220916213251325871_723x396jpg"
+              },
+              "name": "desktop"
+            }
+          ]
+        }
+      ],
+      "in_stock": true,
+      "is_addon": true,
+      "is_addon_added": false,
+      "is_combo": true,
+      "is_customise": false,
+      "is_has_addons": true,
+      "max_qty": null,
+      "min_qty": null,
+      "name": "Whoppin Cheese",
+      "offset": 75,
+      "order": null,
+      "page_no": 1,
+      "pdp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "plp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "price": null,
+      "product_addons": [],
+      "product_type": "delivery",
+      "service": null,
+      "tags": ["services", "veg", "dish"],
+      "taxes": [
+        "SGST_D_P_2.50",
+        "CGST_D_P_2.50",
+        "CGST_T_P_2.50",
+        "SGST_T_P_2.50"
+      ],
+      "variant_category": [
+        {
+          "name": "",
+          "variants": [
+            {
+              "addons": [],
+              "entity_id": "PV::2149078",
+              "is_takeway_support": false,
+              "name": "",
+              "price": 414.0,
+              "service": "delivery",
+              "takeaway_price": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cart_item_id": "",
+      "cart_quantity": 0,
+      "description": "MRP: 457 |  Save 15%, Fiery Chicken Burger + Lite Whopper Jr Chicken + 1King Fries",
+      "entity_id": "P::1824096",
+      "food_type": "nonveg",
+      "id": "f3d26c8706ae453cb01af1b2b2bbb1a0",
+      "image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "image_urls": [
+        {
+          "category": "plp",
+          "images": [
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/1x_ms_20220916213542848714_164x90jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/2x_ms_20220916213542296703_328x180jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/3x_ms_20220916213544322599_492x270jpg"
+              },
+              "name": "mobile_sm"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/1x_ml_20220916213542724462_213x117jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/2x_ml_20220916213543526556_426x234jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/3x_ml_20220916213542342111_639x351jpg"
+              },
+              "name": "mobile_lg"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/1x_web_20220916213544505711_241x132jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/2x_web_20220916213543644014_482x264jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/3x_web_20220916213543062538_723x396jpg"
+              },
+              "name": "desktop"
+            }
+          ]
+        }
+      ],
+      "in_stock": true,
+      "is_addon": true,
+      "is_addon_added": false,
+      "is_combo": true,
+      "is_customise": false,
+      "is_has_addons": true,
+      "max_qty": null,
+      "min_qty": null,
+      "name": "Fire N Flame",
+      "offset": 75,
+      "order": null,
+      "page_no": 1,
+      "pdp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "plp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "price": null,
+      "product_addons": [],
+      "product_type": "delivery",
+      "service": null,
+      "tags": ["services", "dish", "non-veg"],
+      "taxes": [
+        "SGST_D_P_2.50",
+        "CGST_D_P_2.50",
+        "CGST_T_P_2.50",
+        "SGST_T_P_2.50"
+      ],
+      "variant_category": [
+        {
+          "name": "",
+          "variants": [
+            {
+              "addons": [],
+              "entity_id": "PV::2149079",
+              "is_takeway_support": false,
+              "name": "",
+              "price": 414.0,
+              "service": "delivery",
+              "takeaway_price": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cart_item_id": "",
+      "cart_quantity": 0,
+      "description": "MRP: 437 |  Save 15%, Chocolate Thick Shake + Med Pepsi + King Fries",
+      "entity_id": "P::1824099",
+      "food_type": "veg",
+      "id": "27e6298213364f79a8c8559d39c881d5",
+      "image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "image_urls": [
+        {
+          "category": "plp",
+          "images": [
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/1x_ms_20220916213622395659_164x90jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/2x_ms_20220916213621747108_328x180jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/3x_ms_20220916213624046991_492x270jpg"
+              },
+              "name": "mobile_sm"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/1x_ml_20220916213622267196_213x117jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/2x_ml_20220916213623287540_426x234jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/3x_ml_20220916213621800551_639x351jpg"
+              },
+              "name": "mobile_lg"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/1x_web_20220916213624257448_241x132jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/2x_web_20220916213623437079_482x264jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/3x_web_20220916213622704174_723x396jpg"
+              },
+              "name": "desktop"
+            }
+          ]
+        }
+      ],
+      "in_stock": true,
+      "is_addon": true,
+      "is_addon_added": false,
+      "is_combo": true,
+      "is_customise": false,
+      "is_has_addons": true,
+      "max_qty": null,
+      "min_qty": null,
+      "name": "Sip N Bite",
+      "offset": 75,
+      "order": null,
+      "page_no": 1,
+      "pdp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "plp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "price": null,
+      "product_addons": [],
+      "product_type": "delivery",
+      "service": null,
+      "tags": ["services", "veg", "dish"],
+      "taxes": [
+        "SGST_D_P_2.50",
+        "CGST_D_P_2.50",
+        "CGST_T_P_2.50",
+        "SGST_T_P_2.50"
+      ],
+      "variant_category": [
+        {
+          "name": "",
+          "variants": [
+            {
+              "addons": [],
+              "entity_id": "PV::2149082",
+              "is_takeway_support": false,
+              "name": "",
+              "price": 312.0,
+              "service": "delivery",
+              "takeaway_price": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cart_item_id": "",
+      "cart_quantity": 0,
+      "description": "MRP: 398 |  Save 15%, Hot 'N' Cheezy Burger + Hot 'N' Cheezy Burger",
+      "entity_id": "P::1824100",
+      "food_type": "veg",
+      "id": "70ca8df4a41547158eea0bb42866e075",
+      "image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "image_urls": [
+        {
+          "category": "plp",
+          "images": [
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/1x_ms_20220916213654870654_164x90jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/2x_ms_20220916213653893600_328x180jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/3x_ms_20220916213656409692_492x270jpg"
+              },
+              "name": "mobile_sm"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/1x_ml_20220916213654691490_213x117jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/2x_ml_20220916213655635289_426x234jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/3x_ml_20220916213653939310_639x351jpg"
+              },
+              "name": "mobile_lg"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/1x_web_20220916213656599021_241x132jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/2x_web_20220916213655748372_482x264jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/3x_web_20220916213655113585_723x396jpg"
+              },
+              "name": "desktop"
+            }
+          ]
+        }
+      ],
+      "in_stock": true,
+      "is_addon": true,
+      "is_addon_added": false,
+      "is_combo": true,
+      "is_customise": false,
+      "is_has_addons": true,
+      "max_qty": null,
+      "min_qty": null,
+      "name": "Cheezy Twins",
+      "offset": 75,
+      "order": null,
+      "page_no": 1,
+      "pdp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "plp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "price": null,
+      "product_addons": [],
+      "product_type": "delivery",
+      "service": null,
+      "tags": ["services", "veg", "dish"],
+      "taxes": [
+        "SGST_D_P_2.50",
+        "CGST_D_P_2.50",
+        "CGST_T_P_2.50",
+        "SGST_T_P_2.50"
+      ],
+      "variant_category": [
+        {
+          "name": "",
+          "variants": [
+            {
+              "addons": [],
+              "entity_id": "PV::2149085",
+              "is_takeway_support": false,
+              "name": "",
+              "price": 338.0,
+              "service": "delivery",
+              "takeaway_price": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cart_item_id": "",
+      "cart_quantity": 0,
+      "description": "MRP: 398 |  Save 15%, Fiery Chicken Burger+Fiery Chicken Burger",
+      "entity_id": "P::1824101",
+      "food_type": "nonveg",
+      "id": "60c0a597bcf140ec82afdc86cbbb5cea",
+      "image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "image_urls": [
+        {
+          "category": "plp",
+          "images": [
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/1x_ms_20220916213712560870_164x90jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/2x_ms_20220916213711685299_328x180jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/3x_ms_20220916213714557056_492x270jpg"
+              },
+              "name": "mobile_sm"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/1x_ml_20220916213712431679_213x117jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/2x_ml_20220916213713328940_426x234jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/3x_ml_20220916213711752258_639x351jpg"
+              },
+              "name": "mobile_lg"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/1x_web_20220916213714780209_241x132jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/2x_web_20220916213713466544_482x264jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/3x_web_20220916213712829341_723x396jpg"
+              },
+              "name": "desktop"
+            }
+          ]
+        }
+      ],
+      "in_stock": true,
+      "is_addon": true,
+      "is_addon_added": false,
+      "is_combo": true,
+      "is_customise": false,
+      "is_has_addons": true,
+      "max_qty": null,
+      "min_qty": null,
+      "name": "Fiery Twins",
+      "offset": 75,
+      "order": null,
+      "page_no": 1,
+      "pdp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "plp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "price": null,
+      "product_addons": [],
+      "product_type": "delivery",
+      "service": null,
+      "tags": ["services", "dish", "non-veg"],
+      "taxes": [
+        "SGST_D_P_2.50",
+        "CGST_D_P_2.50",
+        "CGST_T_P_2.50",
+        "SGST_T_P_2.50"
+      ],
+      "variant_category": [
+        {
+          "name": "",
+          "variants": [
+            {
+              "addons": [],
+              "entity_id": "PV::2149086",
+              "is_takeway_support": false,
+              "name": "",
+              "price": 338.0,
+              "service": "delivery",
+              "takeaway_price": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cart_item_id": "",
+      "cart_quantity": 0,
+      "description": "Save Rs. 107 | 1 Crispy Veg + 1 BK Veggie Burger + 1 King Fries + 1 Cold Coffee + 1 Medium Pepsi.",
+      "entity_id": "P::1824102",
+      "food_type": "veg",
+      "id": "b83394e9ea8a46cf9e3975c4065f87db",
+      "image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "image_urls": [
+        {
+          "category": "plp",
+          "images": [
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/1x_ms_20221115124710216597_164x90jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/2x_ms_20221115124709387364_328x180jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/3x_ms_20221115124712039235_492x270jpg"
+              },
+              "name": "mobile_sm"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/1x_ml_20221115124710036875_213x117jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/2x_ml_20221115124711080463_426x234jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/3x_ml_20221115124709466513_639x351jpg"
+              },
+              "name": "mobile_lg"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/1x_web_20221115124712295716_241x132jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/2x_web_20221115124711210310_482x264jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/3x_web_20221115124710487414_723x396jpg"
+              },
+              "name": "desktop"
+            }
+          ]
+        }
+      ],
+      "in_stock": true,
+      "is_addon": true,
+      "is_addon_added": false,
+      "is_combo": true,
+      "is_customise": false,
+      "is_has_addons": true,
+      "max_qty": null,
+      "min_qty": null,
+      "name": "1 Crispy Veg + 1 BK Veggie Burger + 1 King Fries + 1 Cold Coffee + 1 Medium Pepsi",
+      "offset": 75,
+      "order": null,
+      "page_no": 1,
+      "pdp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "plp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "price": null,
+      "product_addons": [],
+      "product_type": "delivery",
+      "service": null,
+      "tags": ["services", "veg", "dish"],
+      "taxes": [
+        "SGST_D_P_2.50",
+        "CGST_D_P_2.50",
+        "CGST_T_P_2.50",
+        "SGST_T_P_2.50"
+      ],
+      "variant_category": [
+        {
+          "name": "",
+          "variants": [
+            {
+              "addons": [],
+              "entity_id": "PV::2149087",
+              "is_takeway_support": false,
+              "name": "",
+              "price": 489.0,
+              "service": "delivery",
+              "takeaway_price": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cart_item_id": "",
+      "cart_quantity": 0,
+      "description": "Save Rs. 136 | 1 Jr Veg Whopper+1 Paneer Royale+1 King Fries+1 Chocolate Thick Shake+1 Medium Pepsi",
+      "entity_id": "P::1824104",
+      "food_type": "veg",
+      "id": "0c007dd92bc040dab2a55f80180a3906",
+      "image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "image_urls": [
+        {
+          "category": "plp",
+          "images": [
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/1x_ms_20220916214509635908_164x90jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/2x_ms_20220916214509025998_328x180jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/3x_ms_20220916214511019736_492x270jpg"
+              },
+              "name": "mobile_sm"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/1x_ml_20220916214509516105_213x117jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/2x_ml_20220916214510184289_426x234jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/3x_ml_20220916214509082173_639x351jpg"
+              },
+              "name": "mobile_lg"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/1x_web_20220916214511244591_241x132jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/2x_web_20220916214510328486_482x264jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/3x_web_20220916214509793305_723x396jpg"
+              },
+              "name": "desktop"
+            }
+          ]
+        }
+      ],
+      "in_stock": true,
+      "is_addon": true,
+      "is_addon_added": false,
+      "is_combo": true,
+      "is_customise": false,
+      "is_has_addons": true,
+      "max_qty": null,
+      "min_qty": null,
+      "name": "1 Jr Veg Whopper+1 Paneer Royale+1 King Fries+1 Chocolate Thick Shake+1 Medium Pepsi",
+      "offset": 75,
+      "order": null,
+      "page_no": 1,
+      "pdp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "plp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "price": null,
+      "product_addons": [],
+      "product_type": "delivery",
+      "service": null,
+      "tags": ["services", "veg", "dish"],
+      "taxes": [
+        "SGST_D_P_2.50",
+        "CGST_D_P_2.50",
+        "CGST_T_P_2.50",
+        "SGST_T_P_2.50"
+      ],
+      "variant_category": [
+        {
+          "name": "",
+          "variants": [
+            {
+              "addons": [],
+              "entity_id": "PV::2149089",
+              "is_takeway_support": false,
+              "name": "",
+              "price": 599.0,
+              "service": "delivery",
+              "takeaway_price": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cart_item_id": "",
+      "cart_quantity": 0,
+      "description": "Save Rs, 136 | 1 Crispy Chicken Double Patty+1 Fiery Chicken+1 King Fries+1 Chocolate Thick Shake+1 Medium Pepsi",
+      "entity_id": "P::1824105",
+      "food_type": "nonveg",
+      "id": "41aee2a2b266491fbfc1c52264351335",
+      "image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "image_urls": [
+        {
+          "category": "plp",
+          "images": [
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/1x_ms_20220916214622506952_164x90jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/2x_ms_20220916214621831453_328x180jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/3x_ms_20220916214623982018_492x270jpg"
+              },
+              "name": "mobile_sm"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/1x_ml_20220916214622350120_213x117jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/2x_ml_20220916214623231382_426x234jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/3x_ml_20220916214621914346_639x351jpg"
+              },
+              "name": "mobile_lg"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/1x_web_20220916214624477786_241x132jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/2x_web_20220916214623381775_482x264jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/3x_web_20220916214622701730_723x396jpg"
+              },
+              "name": "desktop"
+            }
+          ]
+        }
+      ],
+      "in_stock": true,
+      "is_addon": true,
+      "is_addon_added": false,
+      "is_combo": true,
+      "is_customise": false,
+      "is_has_addons": true,
+      "max_qty": null,
+      "min_qty": null,
+      "name": "1 Crispy Chicken Double Patty+1 Fiery Chicken+1 King Fries+1 Chocolate Thick Shake+1 Medium Pepsi",
+      "offset": 75,
+      "order": null,
+      "page_no": 1,
+      "pdp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "plp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "price": null,
+      "product_addons": [],
+      "product_type": "delivery",
+      "service": null,
+      "tags": ["services", "dish", "non-veg"],
+      "taxes": [
+        "SGST_D_P_2.50",
+        "CGST_D_P_2.50",
+        "CGST_T_P_2.50",
+        "SGST_T_P_2.50"
+      ],
+      "variant_category": [
+        {
+          "name": "",
+          "variants": [
+            {
+              "addons": [],
+              "entity_id": "PV::2149090",
+              "is_takeway_support": false,
+              "name": "",
+              "price": 599.0,
+              "service": "delivery",
+              "takeaway_price": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cart_item_id": "",
+      "cart_quantity": 0,
+      "description": "Save Rs. 50 | 1 Crispy Veg Double Patty+1 Classic Cold Coffee",
+      "entity_id": "P::1824109",
+      "food_type": "veg",
+      "id": "734e845654f043c5a1951f40b1e33af8",
+      "image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "image_urls": [
+        {
+          "category": "plp",
+          "images": [
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/1x_ms_20220917071332724822_164x90jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/2x_ms_20220917071331703017_328x180jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/3x_ms_20220917071334535859_492x270jpg"
+              },
+              "name": "mobile_sm"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/1x_ml_20220917071332590065_213x117jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/2x_ml_20220917071333482089_426x234jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/3x_ml_20220917071331869983_639x351jpg"
+              },
+              "name": "mobile_lg"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/1x_web_20220917071334707486_241x132jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/2x_web_20220917071333847522_482x264jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/3x_web_20220917071332942592_723x396jpg"
+              },
+              "name": "desktop"
+            }
+          ]
+        }
+      ],
+      "in_stock": true,
+      "is_addon": true,
+      "is_addon_added": false,
+      "is_combo": true,
+      "is_customise": false,
+      "is_has_addons": true,
+      "max_qty": null,
+      "min_qty": null,
+      "name": "1 Crispy Veg Double Patty+1 Classic Cold Coffee",
+      "offset": 75,
+      "order": null,
+      "page_no": 1,
+      "pdp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "plp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "price": null,
+      "product_addons": [],
+      "product_type": "delivery",
+      "service": null,
+      "tags": ["services", "veg", "dish"],
+      "taxes": [
+        "SGST_D_P_2.50",
+        "CGST_D_P_2.50",
+        "CGST_T_P_2.50",
+        "SGST_T_P_2.50"
+      ],
+      "variant_category": [
+        {
+          "name": "",
+          "variants": [
+            {
+              "addons": [],
+              "entity_id": "PV::2149094",
+              "is_takeway_support": false,
+              "name": "",
+              "price": 234.0,
+              "service": "delivery",
+              "takeaway_price": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cart_item_id": "",
+      "cart_quantity": 0,
+      "description": "Save Rs.  50 | 1 Crispy Chicken+1 Classic Cold Coffee",
+      "entity_id": "P::1824110",
+      "food_type": "nonveg",
+      "id": "362ca0f978014537abf398dbedf93914",
+      "image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "image_urls": [
+        {
+          "category": "plp",
+          "images": [
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/1x_ms_20220917070146227964_164x90jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/2x_ms_20220917070145463087_328x180jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/3x_ms_20220917070148048928_492x270jpg"
+              },
+              "name": "mobile_sm"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/1x_ml_20220917070146090646_213x117jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/2x_ml_20220917070146824483_426x234jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/3x_ml_20220917070145522762_639x351jpg"
+              },
+              "name": "mobile_lg"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/1x_web_20220917070148267447_241x132jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/2x_web_20220917070146953779_482x264jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/3x_web_20220917070146397684_723x396jpg"
+              },
+              "name": "desktop"
+            }
+          ]
+        }
+      ],
+      "in_stock": true,
+      "is_addon": true,
+      "is_addon_added": false,
+      "is_combo": true,
+      "is_customise": false,
+      "is_has_addons": true,
+      "max_qty": null,
+      "min_qty": null,
+      "name": "1 Crispy Chicken+1 Classic Cold Coffee",
+      "offset": 75,
+      "order": null,
+      "page_no": 1,
+      "pdp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "plp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "price": null,
+      "product_addons": [],
+      "product_type": "delivery",
+      "service": null,
+      "tags": ["services", "dish", "non-veg"],
+      "taxes": [
+        "SGST_D_P_2.50",
+        "CGST_D_P_2.50",
+        "CGST_T_P_2.50",
+        "SGST_T_P_2.50"
+      ],
+      "variant_category": [
+        {
+          "name": "",
+          "variants": [
+            {
+              "addons": [],
+              "entity_id": "PV::2149095",
+              "is_takeway_support": false,
+              "name": "",
+              "price": 234.0,
+              "service": "delivery",
+              "takeaway_price": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cart_item_id": "",
+      "cart_quantity": 0,
+      "description": "Save Rs. 49 | 1 Jr. Veg Whopper +1 Chocolate Thick Shake",
+      "entity_id": "P::1824111",
+      "food_type": "veg",
+      "id": "d086813d39c045e782bcc9b1ad691474",
+      "image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "image_urls": [
+        {
+          "category": "plp",
+          "images": [
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/1x_ms_20220916214741931672_164x90jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/2x_ms_20220916214741118060_328x180jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/3x_ms_20220916214743489877_492x270jpg"
+              },
+              "name": "mobile_sm"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/1x_ml_20220916214741805697_213x117jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/2x_ml_20220916214742605269_426x234jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/3x_ml_20220916214741194170_639x351jpg"
+              },
+              "name": "mobile_lg"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/1x_web_20220916214743699097_241x132jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/2x_web_20220916214742741702_482x264jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/3x_web_20220916214742169497_723x396jpg"
+              },
+              "name": "desktop"
+            }
+          ]
+        }
+      ],
+      "in_stock": true,
+      "is_addon": true,
+      "is_addon_added": false,
+      "is_combo": true,
+      "is_customise": false,
+      "is_has_addons": true,
+      "max_qty": null,
+      "min_qty": null,
+      "name": "1 Jr Veg Whopper +1 Chocolate Thick Shake",
+      "offset": 75,
+      "order": null,
+      "page_no": 1,
+      "pdp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "plp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "price": null,
+      "product_addons": [],
+      "product_type": "delivery",
+      "service": null,
+      "tags": ["services", "veg", "dish"],
+      "taxes": [
+        "SGST_D_P_2.50",
+        "CGST_D_P_2.50",
+        "CGST_T_P_2.50",
+        "SGST_T_P_2.50"
+      ],
+      "variant_category": [
+        {
+          "name": "",
+          "variants": [
+            {
+              "addons": [],
+              "entity_id": "PV::2149096",
+              "is_takeway_support": false,
+              "name": "",
+              "price": 269.0,
+              "service": "delivery",
+              "takeaway_price": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cart_item_id": "",
+      "cart_quantity": 0,
+      "description": "Save Rs 49 | 1 Jr. Chicken Whopper+1 Chocolate Thick Shake",
+      "entity_id": "P::1824112",
+      "food_type": "nonveg",
+      "id": "1dcd5efb15264398ad2a4a3976432268",
+      "image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "image_urls": [
+        {
+          "category": "plp",
+          "images": [
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/1x_ms_20220916214842590009_164x90jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/2x_ms_20220916214841900737_328x180jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/3x_ms_20220916214843911872_492x270jpg"
+              },
+              "name": "mobile_sm"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/1x_ml_20220916214842432628_213x117jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/2x_ml_20220916214843172147_426x234jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/3x_ml_20220916214841946918_639x351jpg"
+              },
+              "name": "mobile_lg"
+            },
+            {
+              "image": {
+                "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/1x_web_20220916214844076975_241x132jpg",
+                "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/2x_web_20220916214843278816_482x264jpg",
+                "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/3x_web_20220916214842770144_723x396jpg"
+              },
+              "name": "desktop"
+            }
+          ]
+        }
+      ],
+      "in_stock": true,
+      "is_addon": true,
+      "is_addon_added": false,
+      "is_combo": true,
+      "is_customise": false,
+      "is_has_addons": true,
+      "max_qty": null,
+      "min_qty": null,
+      "name": "1 Jr Chicken Whopper+1 Chocolate Thick Shake",
+      "offset": 75,
+      "order": null,
+      "page_no": 1,
+      "pdp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "plp_image_url": "hhttps://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+      "price": null,
+      "product_addons": [],
+      "product_type": "delivery",
+      "service": null,
+      "tags": ["services", "dish", "non-veg"],
+      "taxes": [
+        "SGST_D_P_2.50",
+        "CGST_D_P_2.50",
+        "CGST_T_P_2.50",
+        "SGST_T_P_2.50"
+      ],
+      "variant_category": [
+        {
+          "name": "",
+          "variants": [
+            {
+              "addons": [],
+              "entity_id": "PV::2149097",
+              "is_takeway_support": false,
+              "name": "",
+              "price": 289.0,
+              "service": "delivery",
+              "takeaway_price": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "error": 0,
+  "message": "success"
+}

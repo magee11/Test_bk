@@ -1,6 +1,11 @@
-.store_locations {
-  background-color: white;
-  border-radius: 10px;
+.nearly {
+  background-color: #f8f6f3;
+}
+.Store_locations {
+  margin: 0 auto;
+  width: 90%;
+  border-radius: 6px;
+  margin-top: 1rem;
 }
 .search_portion {
   display: flex;
@@ -35,9 +40,6 @@
   /* font-weight: 600; */
   font-size: large;
 }
-.Store_locations {
-  margin-top: 2rem;
-}
 
 .search_top {
   margin-top: 3rem;
@@ -49,4 +51,63 @@
   justify-content: center;
   align-items: center;
   color: #ee7700;
+}
+
+@media only screen and (max-width: 768px) {
+  .nearlyby_wrapper {
+    background-color: #f8f6f3;
+  }
+  .Store_locations {
+    border-radius: 6px;
+  }
+  .search_portion {
+    display: flex;
+    justify-content: center;
+  }
+  .search-bar {
+    justify-content: space-between;
+    width: 60%;
+    height: 2.3rem;
+    border-radius: 100px;
+    background-color: white;
+    display: flex;
+    padding: 0 2rem;
+    align-items: left;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.05);
+  }
+
+  .store_search {
+    background-color: transparent;
+    padding-left: 10px;
+    border: none;
+    /* font-weight: 600; */
+    font-size: small;
+    outline: none;
+  }
+  .store_search::placeholder {
+    color: rgb(183, 183, 183);
+    /* font-weight: 600; */
+    font-size: small;
+  }
+
+  .search_top {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+  }
+  .detect_location {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ee7700;
+  }
+  .closeBar {
+    color: #ee7700;
+    padding: 0 1rem;
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    background-color: white;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.05);
+  }
 }

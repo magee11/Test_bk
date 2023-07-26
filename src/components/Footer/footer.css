@@ -65,6 +65,10 @@ ul {
 }
 
 @media only screen and (max-width: 768px) {
+  .Mobile_footer{
+    position: sticky;
+    bottom: 0;
+  }
   .Mobile_Footer_Wrapper {
     background-color: rgb(255, 255, 255);
     box-shadow: 0 -3px 8px 0 rgba(0, 0, 0, 0.08);

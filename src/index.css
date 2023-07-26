@@ -8,8 +8,21 @@
   font-family: 'Flame';
   src: local('Flame'), url(./assests/fonts/Flame-Regular.ttf) format('truetype');
 }
+
+@font-face {
+  font-family: 'FlameSans-regular';
+  src: local('Flame'), url(./assests/fonts/FlameSans-Regular.ttf) format('truetype');
+}
+
 body{
+  background-color: aqua;
   padding: 0;
   margin: 0;
   font-family: 'Flame', sans-serif;
 }
+/* @media only screen and (max-width: 734px) {
+  #root{
+    height: 100vh;
+    background-color: black;
+  } */
+/* } */
